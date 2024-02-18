@@ -25,6 +25,8 @@ keywords:
     "ISTD": 
         filters: ["infrared small target"]
     "graph":
-        filters: ["graph neural network transformer segmentation"]
+        filters: ["graph", "transformer", "segmentation"]
     "segmentation":
-        filters: ["transformer segmentation"]
+        filters: ["transformer", "segmentation"]
+    "mamba":
+        filters: ["mamba", "segmentation"]        
