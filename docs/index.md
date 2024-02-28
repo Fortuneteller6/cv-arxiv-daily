@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -63,7 +63,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-24**|**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**|Chi-Sheng Chen et.al.|[2402.15761](http://arxiv.org/abs/2402.15761)|**[link](https://github.com/chishengchen/resvmamba)**|
-|**2024-02-23**|**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**|Hang Guo et.al.|[2402.15648](http://arxiv.org/abs/2402.15648)|null|
+|**2024-02-23**|**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**|Hang Guo et.al.|[2402.15648](http://arxiv.org/abs/2402.15648)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-02-19**|**Pan-Mamba: Effective pan-sharpening with State Space Model**|Xuanhua He et.al.|[2402.12192](http://arxiv.org/abs/2402.12192)|null|
 |**2024-02-16**|**Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**|Ziyang Wang et.al.|[2402.10887](http://arxiv.org/abs/2402.10887)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-19**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/lmd0311/pointmamba)**|
