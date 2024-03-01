@@ -72,6 +72,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**|Soham De et.al.|[2402.19427](http://arxiv.org/abs/2402.19427)|null|
+|**2024-02-29**|**Theoretical Foundations of Deep Selective State-Space Models**|Nicola Muca Cirone et.al.|[2402.19047](http://arxiv.org/abs/2402.19047)|null|
+|**2024-02-29**|**MambaStock: Selective state space model for stock prediction**|Zhuangwei Shi et.al.|[2402.18959](http://arxiv.org/abs/2402.18959)|null|
+|**2024-02-28**|**Simple linear attention language models balance the recall-throughput tradeoff**|Simran Arora et.al.|[2402.18668](http://arxiv.org/abs/2402.18668)|null|
 |**2024-02-28**|**MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**|Jiahao Huang et.al.|[2402.18451](http://arxiv.org/abs/2402.18451)|null|
 |**2024-02-28**|**Evaluating Quantized Large Language Models**|Shiyao Li et.al.|[2402.18158](http://arxiv.org/abs/2402.18158)|**[link](https://github.com/thu-nics/qllm-eval)**|
 |**2024-02-24**|**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**|Chi-Sheng Chen et.al.|[2402.15761](http://arxiv.org/abs/2402.15761)|**[link](https://github.com/chishengchen/resvmamba)**|
