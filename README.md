@@ -72,8 +72,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**|Wei He et.al.|[2403.00818](http://arxiv.org/abs/2403.00818)|null|
+|**2024-03-01**|**Point Could Mamba: Point Cloud Learning via State Space Model**|Tao Zhang et.al.|[2403.00762](http://arxiv.org/abs/2403.00762)|**[link](https://github.com/zhang-tao-whu/pcm)**|
 |**2024-02-29**|**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**|Soham De et.al.|[2402.19427](http://arxiv.org/abs/2402.19427)|null|
-|**2024-02-29**|**Theoretical Foundations of Deep Selective State-Space Models**|Nicola Muca Cirone et.al.|[2402.19047](http://arxiv.org/abs/2402.19047)|null|
+|**2024-03-04**|**Theoretical Foundations of Deep Selective State-Space Models**|Nicola Muca Cirone et.al.|[2402.19047](http://arxiv.org/abs/2402.19047)|null|
 |**2024-02-29**|**MambaStock: Selective state space model for stock prediction**|Zhuangwei Shi et.al.|[2402.18959](http://arxiv.org/abs/2402.18959)|**[link](https://github.com/zshicode/mambastock)**|
 |**2024-02-28**|**Simple linear attention language models balance the recall-throughput tradeoff**|Simran Arora et.al.|[2402.18668](http://arxiv.org/abs/2402.18668)|**[link](https://github.com/hazyresearch/based)**|
 |**2024-02-28**|**MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**|Jiahao Huang et.al.|[2402.18451](http://arxiv.org/abs/2402.18451)|null|
