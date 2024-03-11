@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
 |**2024-03-08**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
@@ -64,6 +65,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries**|Zhuangwei Shi et.al.|[2403.05430](http://arxiv.org/abs/2403.05430)|null|
+|**2024-03-08**|**LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**|Weibin Liao et.al.|[2403.05246](http://arxiv.org/abs/2403.05246)|**[link](https://github.com/mrblankness/lightm-unet)**|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160](http://arxiv.org/abs/2403.05160)|null|
+|**2024-03-08**|**Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**|Yuelin Zhang et.al.|[2403.05146](http://arxiv.org/abs/2403.05146)|null|
 |**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|**[link](https://github.com/chengkai-liu/mamba4rec)**|
 |**2024-03-06**|**MedMamba: Vision Mamba for Medical Image Classification**|Yubiao Yue et.al.|[2403.03849](http://arxiv.org/abs/2403.03849)|**[link](https://github.com/YubiaoYue/MedMamba)**|
 |**2024-03-05**|**Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling**|Yair Schiff et.al.|[2403.03234](http://arxiv.org/abs/2403.03234)|**[link](https://github.com/kuleshov-group/caduceus)**|
