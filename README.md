@@ -74,7 +74,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
+|**2024-03-12**|**Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**|Changsheng Quan et.al.|[2403.07675](http://arxiv.org/abs/2403.07675)|null|
+|**2024-03-12**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|null|
+|**2024-03-12**|**Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**|Jinhong Wang et.al.|[2403.07332](http://arxiv.org/abs/2403.07332)|**[link](https://github.com/wjh892521292/lma-unet)**|
+|**2024-03-11**|**A multi-cohort study on prediction of acute brain dysfunction states using selective state space models**|Brandon Silva et.al.|[2403.07201](http://arxiv.org/abs/2403.07201)|null|
+|**2024-03-12**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963](http://arxiv.org/abs/2403.06963)|null|
 |**2024-03-11**|**MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**|Shu Yang et.al.|[2403.06800](http://arxiv.org/abs/2403.06800)|**[link](https://github.com/isyangshu/mambamil)**|
 |**2024-03-11**|**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**|Jiuming Liu et.al.|[2403.06467](http://arxiv.org/abs/2403.06467)|**[link](https://github.com/irmvlab/point-mamba)**|
