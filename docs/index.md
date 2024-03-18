@@ -108,7 +108,7 @@ layout: default
 |**2024-02-13**|**P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation**|Zi Ye et.al.|[2402.08506](http://arxiv.org/abs/2402.08506)|null|
 |**2024-02-11**|**Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**|Ziyang Wang et.al.|[2402.07245](http://arxiv.org/abs/2402.07245)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-14**|**FD-Vision Mamba for Endoscopic Exposure Correction**|Zhuoran Zheng et.al.|[2402.06378](http://arxiv.org/abs/2402.06378)|null|
-|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892](http://arxiv.org/abs/2402.05892)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892](http://arxiv.org/abs/2402.05892)|**[link](https://github.com/jacklishufan/mamba-nd)**|
 |**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079](http://arxiv.org/abs/2402.05079)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
 |**2024-02-16**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
