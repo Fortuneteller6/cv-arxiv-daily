@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
 |**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
-|**2024-03-08**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
+|**2024-03-17**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
@@ -75,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-17**|**Is Mamba Effective for Time Series Forecasting?**|Zihan Wang et.al.|[2403.11144](http://arxiv.org/abs/2403.11144)|null|
 |**2024-03-15**|**EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**|Xiaohuan Pei et.al.|[2403.09977](http://arxiv.org/abs/2403.09977)|null|
 |**2024-03-14**|**TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**|Md Atik Ahamed et.al.|[2403.09898](http://arxiv.org/abs/2403.09898)|null|
 |**2024-03-14**|**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**|Zohar Rimon et.al.|[2403.09859](http://arxiv.org/abs/2403.09859)|null|
@@ -91,7 +92,7 @@
 |**2024-03-12**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963](http://arxiv.org/abs/2403.06963)|**[link](https://github.com/gregorbachmann/next-token-failures)**|
 |**2024-03-11**|**MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**|Shu Yang et.al.|[2403.06800](http://arxiv.org/abs/2403.06800)|**[link](https://github.com/isyangshu/mambamil)**|
-|**2024-03-11**|**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**|Jiuming Liu et.al.|[2403.06467](http://arxiv.org/abs/2403.06467)|**[link](https://github.com/irmvlab/point-mamba)**|
+|**2024-03-18**|**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**|Jiuming Liu et.al.|[2403.06467](http://arxiv.org/abs/2403.06467)|**[link](https://github.com/irmvlab/point-mamba)**|
 |**2024-03-09**|**ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes**|Zhichao Yang et.al.|[2403.05795](http://arxiv.org/abs/2403.05795)|null|
 |**2024-03-08**|**MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries**|Zhuangwei Shi et.al.|[2403.05430](http://arxiv.org/abs/2403.05430)|**[link](https://github.com/zshicode/mambalithium)**|
 |**2024-03-11**|**LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**|Weibin Liao et.al.|[2403.05246](http://arxiv.org/abs/2403.05246)|**[link](https://github.com/mrblankness/lightm-unet)**|
