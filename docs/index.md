@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -68,7 +68,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-17**|**Is Mamba Effective for Time Series Forecasting?**|Zihan Wang et.al.|[2403.11144](http://arxiv.org/abs/2403.11144)|null|
 |**2024-03-15**|**EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**|Xiaohuan Pei et.al.|[2403.09977](http://arxiv.org/abs/2403.09977)|null|
-|**2024-03-14**|**TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**|Md Atik Ahamed et.al.|[2403.09898](http://arxiv.org/abs/2403.09898)|null|
+|**2024-03-14**|**TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**|Md Atik Ahamed et.al.|[2403.09898](http://arxiv.org/abs/2403.09898)|**[link](https://github.com/atik-ahamed/timemachine)**|
 |**2024-03-14**|**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**|Zohar Rimon et.al.|[2403.09859](http://arxiv.org/abs/2403.09859)|null|
 |**2024-03-14**|**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**|Guo Chen et.al.|[2403.09626](http://arxiv.org/abs/2403.09626)|**[link](https://github.com/opengvlab/video-mamba-suite)**|
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
