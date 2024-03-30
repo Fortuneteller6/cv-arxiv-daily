@@ -89,7 +89,7 @@
 |**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877](http://arxiv.org/abs/2403.16877)|**[link](https://github.com/norlab-ulaval/BorealTC)**|
 |**2024-03-26**|**VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting**|Yujin Tang et.al.|[2403.16536](http://arxiv.org/abs/2403.16536)|**[link](https://github.com/yyyujintang/vmrnn-pytorch)**|
 |**2024-03-25**|**CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification**|Guangqian Yang et.al.|[2403.16520](http://arxiv.org/abs/2403.16520)|null|
-|**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|null|
+|**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|**[link](https://github.com/nancheng58/recmamba)**|
 |**2024-03-22**|**Music to Dance as Language Translation using Sequence Models**|André Correia et.al.|[2403.15569](http://arxiv.org/abs/2403.15569)|**[link](https://github.com/meowatthemoon/mdlt)**|
 |**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|**[link](https://github.com/badripatro/simba)**|
 |**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
