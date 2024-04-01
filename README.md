@@ -76,6 +76,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**|Shuangjian Li et.al.|[2403.20183](http://arxiv.org/abs/2403.20183)|null|
+|**2024-03-29**|**Efficacy of the Sterile Insect Technique in the presence of inaccessible areas: A study using two-patch models**|Pierre-Alexandre Bliman et.al.|[2403.20069](http://arxiv.org/abs/2403.20069)|null|
+|**2024-03-29**|**UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation**|Renkai Wu et.al.|[2403.20035](http://arxiv.org/abs/2403.20035)|**[link](https://github.com/wurenkai/UltraLight-VM-UNet)**|
+|**2024-03-29**|**Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**|Toshihiro Ota et.al.|[2403.19925](http://arxiv.org/abs/2403.19925)|**[link](https://github.com/toshihiro-ota/decision-mamba)**|
+|**2024-03-28**|**Jamba: A Hybrid Transformer-Mamba Language Model**|Opher Lieber et.al.|[2403.19887](http://arxiv.org/abs/2403.19887)|null|
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
 |**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**|Zhichao Xu et.al.|[2403.18276](http://arxiv.org/abs/2403.18276)|**[link](https://github.com/zhichaoxu-shufe/rankmamba)**|
