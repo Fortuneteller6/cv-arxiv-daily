@@ -67,6 +67,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Locating and Editing Factual Associations in Mamba**|Arnab Sen Sharma et.al.|[2404.03646](http://arxiv.org/abs/2404.03646)|**[link](https://github.com/arnab-api/romba)**|
+|**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
 |**2024-04-03**|**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**|Xianping Ma et.al.|[2404.02457](http://arxiv.org/abs/2404.02457)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-04-02**|**SPMamba: State-space model is all you need in speech separation**|Kai Li et.al.|[2404.02063](http://arxiv.org/abs/2404.02063)|**[link](https://github.com/jusperlee/spmamba)**|
