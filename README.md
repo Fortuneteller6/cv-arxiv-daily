@@ -76,7 +76,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
+|**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
+|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|**[link](https://github.com/zifuwan/sigma)**|
 |**2024-04-04**|**Locating and Editing Factual Associations in Mamba**|Arnab Sen Sharma et.al.|[2404.03646](http://arxiv.org/abs/2404.03646)|**[link](https://github.com/arnab-api/romba)**|
 |**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425](http://arxiv.org/abs/2404.03425)|**[link](https://github.com/chenhongruixuan/mambacd)**|
 |**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668](http://arxiv.org/abs/2404.02668)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
@@ -92,7 +94,7 @@
 |**2024-03-28**|**Jamba: A Hybrid Transformer-Mamba Language Model**|Opher Lieber et.al.|[2403.19887](http://arxiv.org/abs/2403.19887)|null|
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
 |**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
-|**2024-03-27**|**RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**|Zhichao Xu et.al.|[2403.18276](http://arxiv.org/abs/2403.18276)|**[link](https://github.com/zhichaoxu-shufe/rankmamba)**|
+|**2024-04-07**|**RankMamba: Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**|Zhichao Xu et.al.|[2403.18276](http://arxiv.org/abs/2403.18276)|**[link](https://github.com/zhichaoxu-shufe/rankmamba)**|
 |**2024-03-27**|**Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**|Xilin Jiang et.al.|[2403.18257](http://arxiv.org/abs/2403.18257)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
 |**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
 |**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839](http://arxiv.org/abs/2403.17839)|null|
