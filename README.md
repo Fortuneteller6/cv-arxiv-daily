@@ -76,6 +76,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
+|**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
 |**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
 |**2024-04-09**|**Does Transformer Interpretability Transfer to RNNs?**|Gonçalo Paulo et.al.|[2404.05971](http://arxiv.org/abs/2404.05971)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
