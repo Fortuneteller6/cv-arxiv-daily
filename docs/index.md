@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|null|
+|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
 |**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
 |**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
 |**2024-03-17**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
@@ -67,8 +67,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
+|**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904](http://arxiv.org/abs/2404.07904)|**[link](https://github.com/opennlplab/hgrn2)**|
+|**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
+|**2024-04-11**|**ViM-UNet: Vision Mamba for Biomedical Segmentation**|Anwai Archit et.al.|[2404.07705](http://arxiv.org/abs/2404.07705)|**[link](https://github.com/constantinpape/torch-em)**|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
-|**2024-04-09**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
+|**2024-04-11**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
 |**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
 |**2024-04-09**|**Does Transformer Interpretability Transfer to RNNs?**|Gonçalo Paulo et.al.|[2404.05971](http://arxiv.org/abs/2404.05971)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
