@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## segmentation
 
@@ -70,12 +70,15 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|null|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
+|**2024-04-11**|**SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction**|Ying Chen et.al.|[2404.08027](http://arxiv.org/abs/2404.08027)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
 |**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904](http://arxiv.org/abs/2404.07904)|**[link](https://github.com/opennlplab/hgrn2)**|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
@@ -83,7 +86,7 @@
 |**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
 |**2024-04-11**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
-|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
+|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|**[link](https://github.com/zizheng-guo/rhythmmamba)**|
 |**2024-04-09**|**Does Transformer Interpretability Transfer to RNNs?**|Gonçalo Paulo et.al.|[2404.05971](http://arxiv.org/abs/2404.05971)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
@@ -183,7 +186,7 @@
 |**2024-01-24**|**MambaByte: Token-free Selective State Space Model**|Junxiong Wang et.al.|[2401.13660](http://arxiv.org/abs/2401.13660)|null|
 |**2024-01-25**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560](http://arxiv.org/abs/2401.13560)|**[link](https://github.com/ge-xing/segmamba)**|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

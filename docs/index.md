@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -67,6 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|null|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
+|**2024-04-11**|**SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction**|Ying Chen et.al.|[2404.08027](http://arxiv.org/abs/2404.08027)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
 |**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904](http://arxiv.org/abs/2404.07904)|**[link](https://github.com/opennlplab/hgrn2)**|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
@@ -74,7 +77,7 @@ layout: default
 |**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
 |**2024-04-11**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
-|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
+|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|**[link](https://github.com/zizheng-guo/rhythmmamba)**|
 |**2024-04-09**|**Does Transformer Interpretability Transfer to RNNs?**|Gonçalo Paulo et.al.|[2404.05971](http://arxiv.org/abs/2404.05971)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|**[link](https://github.com/ziyangwang007/vmambamorph)**|
