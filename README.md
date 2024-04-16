@@ -76,6 +76,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**|Yang Liu et.al.|[2404.09697](http://arxiv.org/abs/2404.09697)|null|
+|**2024-04-15**|**nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation**|Fabian Isensee et.al.|[2404.09556](http://arxiv.org/abs/2404.09556)|null|
+|**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516](http://arxiv.org/abs/2404.09516)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
+|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498](http://arxiv.org/abs/2404.09498)|null|
+|**2024-04-15**|**FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining**|Zou Zhen et.al.|[2404.09476](http://arxiv.org/abs/2404.09476)|null|
+|**2024-04-14**|**A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**|Zihan Cao et.al.|[2404.09293](http://arxiv.org/abs/2404.09293)|null|
+|**2024-04-14**|**Fusion-Mamba for Cross-modality Object Detection**|Wenhao Dong et.al.|[2404.09146](http://arxiv.org/abs/2404.09146)|null|
+|**2024-04-12**|**The Illusion of State in State-Space Models**|William Merrill et.al.|[2404.08819](http://arxiv.org/abs/2404.08819)|null|
 |**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406](http://arxiv.org/abs/2404.08406)|null|
 |**2024-04-11**|**SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction**|Ying Chen et.al.|[2404.08027](http://arxiv.org/abs/2404.08027)|null|
@@ -85,7 +93,7 @@
 |**2024-04-11**|**ViM-UNet: Vision Mamba for Biomedical Segmentation**|Anwai Archit et.al.|[2404.07705](http://arxiv.org/abs/2404.07705)|**[link](https://github.com/constantinpape/torch-em)**|
 |**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
-|**2024-04-11**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
+|**2024-04-14**|**MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**|Haoyang He et.al.|[2404.06564](http://arxiv.org/abs/2404.06564)|null|
 |**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|**[link](https://github.com/zizheng-guo/rhythmmamba)**|
 |**2024-04-09**|**Does Transformer Interpretability Transfer to RNNs?**|Gonçalo Paulo et.al.|[2404.05971](http://arxiv.org/abs/2404.05971)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
