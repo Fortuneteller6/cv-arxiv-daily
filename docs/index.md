@@ -67,6 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs**|Zhihao Chen et.al.|[2404.13884](http://arxiv.org/abs/2404.13884)|**[link](https://github.com/1024ailab/mambauie)**|
+|**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
+|**2024-04-20**|**Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**|Ali Nasiri-Sarvi et.al.|[2404.13222](http://arxiv.org/abs/2404.13222)|**[link](https://github.com/atlasanalyticslab/vim4path)**|
 |**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**|Xinghan Wang et.al.|[2404.11375](http://arxiv.org/abs/2404.11375)|null|
 |**2024-04-15**|**HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**|Yang Liu et.al.|[2404.09697](http://arxiv.org/abs/2404.09697)|null|
