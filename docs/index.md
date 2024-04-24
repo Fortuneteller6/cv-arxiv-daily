@@ -67,6 +67,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966](http://arxiv.org/abs/2404.14966)|null|
+|**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757](http://arxiv.org/abs/2404.14757)|null|
 |**2024-04-22**|**MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs**|Zhihao Chen et.al.|[2404.13884](http://arxiv.org/abs/2404.13884)|**[link](https://github.com/1024ailab/mambauie)**|
 |**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
 |**2024-04-20**|**Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**|Ali Nasiri-Sarvi et.al.|[2404.13222](http://arxiv.org/abs/2404.13222)|**[link](https://github.com/atlasanalyticslab/vim4path)**|
