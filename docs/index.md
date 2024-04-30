@@ -67,6 +67,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
+|**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
+|**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
+|**2024-04-28**|**S $^2$ Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification**|Guanchun Wang et.al.|[2404.18213](http://arxiv.org/abs/2404.18213)|null|
+|**2024-04-28**|**Mamba-FETrack: Frame-Event Tracking via State Space Model**|Ju Huang et.al.|[2404.18174](http://arxiv.org/abs/2404.18174)|**[link](https://github.com/event-ahu/mamba_fetrack)**|
+|**2024-04-27**|**Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion**|Yuntao Shou et.al.|[2404.17858](http://arxiv.org/abs/2404.17858)|null|
 |**2024-04-26**|**Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model**|Zhenghong Li et.al.|[2404.17484](http://arxiv.org/abs/2404.17484)|null|
 |**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235](http://arxiv.org/abs/2404.17235)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
