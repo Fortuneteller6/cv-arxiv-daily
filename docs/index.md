@@ -22,7 +22,7 @@ layout: default
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
 |**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[2402.02046](http://arxiv.org/abs/2402.02046)|null|
-|**2024-04-30**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|null|
+|**2024-04-30**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|**[link](https://github.com/xdfai/sctransnet)**|
 |**2024-01-28**|**ARCNet: An Asymmetric Residual Wavelet Column Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578](http://arxiv.org/abs/2401.15578)|null|
 |**2024-01-17**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|**[link](https://github.com/edwardbao1006/bit_sirst)**|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917](http://arxiv.org/abs/2311.00917)|**[link](https://github.com/fengyiwu98/rpcanet)**|
@@ -67,6 +67,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|**[link](https://github.com/raytrun/mamba-clip)**|
+|**2024-04-30**|**Revenge of the Fallen? Recurrent Models Match Transformers at Predicting Human Language Comprehension Metrics**|James A. Michaelov et.al.|[2404.19178](http://arxiv.org/abs/2404.19178)|null|
 |**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
 |**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
 |**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
@@ -80,8 +82,8 @@ layout: default
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-26**|**ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction**|Zhiqi Shao et.al.|[2404.15899](http://arxiv.org/abs/2404.15899)|null|
 |**2024-04-24**|**Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting**|Aobo Liang et.al.|[2404.15772](http://arxiv.org/abs/2404.15772)|null|
-|**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966](http://arxiv.org/abs/2404.14966)|null|
-|**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757](http://arxiv.org/abs/2404.14757)|null|
+|**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966](http://arxiv.org/abs/2404.14966)|**[link](https://github.com/xhanxu/Mamba3D)**|
+|**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757](http://arxiv.org/abs/2404.14757)|**[link](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)**|
 |**2024-04-22**|**MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs**|Zhihao Chen et.al.|[2404.13884](http://arxiv.org/abs/2404.13884)|**[link](https://github.com/1024ailab/mambauie)**|
 |**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
 |**2024-04-20**|**Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**|Ali Nasiri-Sarvi et.al.|[2404.13222](http://arxiv.org/abs/2404.13222)|**[link](https://github.com/atlasanalyticslab/vim4path)**|
