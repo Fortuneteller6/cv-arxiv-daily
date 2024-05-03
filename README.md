@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240503>back to top</a>)</p>
 
 ## segmentation
 
@@ -70,7 +70,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240503>back to top</a>)</p>
 
 ## mamba
 
@@ -78,7 +78,7 @@
 |---|---|---|---|---|
 |**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|**[link](https://github.com/raytrun/mamba-clip)**|
 |**2024-04-30**|**Revenge of the Fallen? Recurrent Models Match Transformers at Predicting Human Language Comprehension Metrics**|James A. Michaelov et.al.|[2404.19178](http://arxiv.org/abs/2404.19178)|null|
-|**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
+|**2024-05-02**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
 |**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
 |**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
 |**2024-04-28**|**S $^2$ Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification**|Guanchun Wang et.al.|[2404.18213](http://arxiv.org/abs/2404.18213)|null|
@@ -216,7 +216,7 @@
 |**2024-01-24**|**MambaByte: Token-free Selective State Space Model**|Junxiong Wang et.al.|[2401.13660](http://arxiv.org/abs/2401.13660)|null|
 |**2024-01-25**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560](http://arxiv.org/abs/2401.13560)|**[link](https://github.com/ge-xing/segmamba)**|
 
-<p align=right>(<a href=#updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
