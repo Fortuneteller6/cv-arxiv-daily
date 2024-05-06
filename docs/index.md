@@ -147,7 +147,7 @@ layout: default
 |**2024-03-26**|**ProMamba: Prompt-Mamba for polyp segmentation**|Jianhao Xie et.al.|[2403.13660](http://arxiv.org/abs/2403.13660)|null|
 |**2024-03-20**|**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**|Renkai Wu et.al.|[2403.13642](http://arxiv.org/abs/2403.13642)|**[link](https://github.com/wurenkai/h-vmunet)**|
 |**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
-|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418](http://arxiv.org/abs/2403.12418)|null|
+|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418](http://arxiv.org/abs/2403.12418)|**[link](https://github.com/LincanLi98/STG-Mamba)**|
 |**2024-03-17**|**Is Mamba Effective for Time Series Forecasting?**|Zihan Wang et.al.|[2403.11144](http://arxiv.org/abs/2403.11144)|**[link](https://github.com/wzhwzhwzh0921/s-d-mamba)**|
 |**2024-03-15**|**EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**|Xiaohuan Pei et.al.|[2403.09977](http://arxiv.org/abs/2403.09977)|**[link](https://github.com/terrypei/efficientvmamba)**|
 |**2024-03-14**|**TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**|Md Atik Ahamed et.al.|[2403.09898](http://arxiv.org/abs/2403.09898)|**[link](https://github.com/atik-ahamed/timemachine)**|
