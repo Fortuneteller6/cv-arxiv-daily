@@ -67,9 +67,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
+|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011](http://arxiv.org/abs/2405.03011)|null|
+|**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008](http://arxiv.org/abs/2405.03008)|**[link](https://github.com/nathan66666/dvmsr)**|
+|**2024-05-05**|**SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**|Ziyun Qian et.al.|[2405.02844](http://arxiv.org/abs/2405.02844)|null|
 |**2024-05-03**|**FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**|Hui Ma et.al.|[2405.01828](http://arxiv.org/abs/2405.01828)|null|
-|**2024-05-02**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
-|**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|**[link](https://github.com/yash2629/s.o.a.r)**|
+|**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|**[link](https://github.com/raytrun/mamba-clip)**|
 |**2024-04-30**|**Revenge of the Fallen? Recurrent Models Match Transformers at Predicting Human Language Comprehension Metrics**|James A. Michaelov et.al.|[2404.19178](http://arxiv.org/abs/2404.19178)|null|
 |**2024-05-02**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895](http://arxiv.org/abs/2404.18895)|**[link](https://github.com/chen-yang-liu/rscama)**|
