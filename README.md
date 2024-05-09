@@ -76,6 +76,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation**|Jiashu Xu et.al.|[2405.05007](http://arxiv.org/abs/2405.05007)|null|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/abs/2405.04909)|null|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
 |**2024-05-07**|**VMambaCC: A Visual State Space Model for Crowd Counting**|Hao-Yuan Ma et.al.|[2405.03978](http://arxiv.org/abs/2405.03978)|null|
 |**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
