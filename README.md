@@ -76,6 +76,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.05667](http://arxiv.org/abs/2405.05667)|null|
 |**2024-05-08**|**HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation**|Jiashu Xu et.al.|[2405.05007](http://arxiv.org/abs/2405.05007)|null|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
 |**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/abs/2405.04909)|null|
