@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240510>back to top</a>)</p>
 
 ## segmentation
 
@@ -70,7 +70,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240510>back to top</a>)</p>
 
 ## mamba
 
@@ -81,13 +81,13 @@
 |**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/abs/2405.04909)|null|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
 |**2024-05-07**|**VMambaCC: A Visual State Space Model for Crowd Counting**|Hao-Yuan Ma et.al.|[2405.03978](http://arxiv.org/abs/2405.03978)|null|
-|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|**[link](https://github.com/YhuoyuH/RetinexMamba)**|
 |**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
-|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011](http://arxiv.org/abs/2405.03011)|null|
+|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011](http://arxiv.org/abs/2405.03011)|**[link](https://github.com/vietthanh2710/ac-mambaseg)**|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008](http://arxiv.org/abs/2405.03008)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-05**|**SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**|Ziyun Qian et.al.|[2405.02844](http://arxiv.org/abs/2405.02844)|null|
-|**2024-05-03**|**FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**|Hui Ma et.al.|[2405.01828](http://arxiv.org/abs/2405.01828)|null|
-|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|**[link](https://github.com/yash2629/s.o.a.r)**|
+|**2024-05-09**|**FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**|Hui Ma et.al.|[2405.01828](http://arxiv.org/abs/2405.01828)|**[link](https://github.com/swjtuma/fer-yolo-mamba)**|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|**[link](https://github.com/raytrun/mamba-clip)**|
 |**2024-04-30**|**Revenge of the Fallen? Recurrent Models Match Transformers at Predicting Human Language Comprehension Metrics**|James A. Michaelov et.al.|[2404.19178](http://arxiv.org/abs/2404.19178)|null|
@@ -229,7 +229,7 @@
 |**2024-01-24**|**MambaByte: Token-free Selective State Space Model**|Junxiong Wang et.al.|[2401.13660](http://arxiv.org/abs/2401.13660)|null|
 |**2024-01-25**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560](http://arxiv.org/abs/2401.13560)|**[link](https://github.com/ge-xing/segmamba)**|
 
-<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
