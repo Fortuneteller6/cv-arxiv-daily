@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -74,11 +74,11 @@ layout: default
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
 |**2024-05-07**|**VMambaCC: A Visual State Space Model for Crowd Counting**|Hao-Yuan Ma et.al.|[2405.03978](http://arxiv.org/abs/2405.03978)|null|
 |**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|**[link](https://github.com/YhuoyuH/RetinexMamba)**|
-|**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
+|**2024-05-10**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
 |**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011](http://arxiv.org/abs/2405.03011)|**[link](https://github.com/vietthanh2710/ac-mambaseg)**|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008](http://arxiv.org/abs/2405.03008)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-05**|**SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**|Ziyun Qian et.al.|[2405.02844](http://arxiv.org/abs/2405.02844)|null|
-|**2024-05-09**|**FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**|Hui Ma et.al.|[2405.01828](http://arxiv.org/abs/2405.01828)|**[link](https://github.com/swjtuma/fer-yolo-mamba)**|
+|**2024-05-10**|**FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**|Hui Ma et.al.|[2405.01828](http://arxiv.org/abs/2405.01828)|**[link](https://github.com/swjtuma/fer-yolo-mamba)**|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|**[link](https://github.com/raytrun/mamba-clip)**|
