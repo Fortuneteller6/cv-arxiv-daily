@@ -67,6 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
+|**2024-05-10**|**An Investigation of Incorporating Mamba for Speech Enhancement**|Rong Chao et.al.|[2405.06573](http://arxiv.org/abs/2405.06573)|**[link](https://github.com/roychao19477/semamba)**|
+|**2024-05-09**|**Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba**|Hongwei Ren et.al.|[2405.06116](http://arxiv.org/abs/2405.06116)|null|
 |**2024-05-09**|**VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.05667](http://arxiv.org/abs/2405.05667)|null|
 |**2024-05-08**|**HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation**|Jiashu Xu et.al.|[2405.05007](http://arxiv.org/abs/2405.05007)|null|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964](http://arxiv.org/abs/2405.04964)|null|
