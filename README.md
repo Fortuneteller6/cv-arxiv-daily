@@ -76,6 +76,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|**[link](https://github.com/yuweihao/mambaout)**|
+|**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
+|**2024-05-13**|**Hierarchical Decision Mamba**|André Correia et.al.|[2405.07943](http://arxiv.org/abs/2405.07943)|**[link](https://github.com/meowatthemoon/hierarchicaldecisionmamba)**|
+|**2024-05-13**|**GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images**|Xinying Wang et.al.|[2405.07777](http://arxiv.org/abs/2405.07777)|null|
+|**2024-05-13**|**Sakuga-42M Dataset: Scaling Up Cartoon Research**|Zhenglin Pan et.al.|[2405.07425](http://arxiv.org/abs/2405.07425)|**[link](https://github.com/zhenglinpan/SakugaDataset)**|
+|**2024-05-11**|**DTMamba : Dual Twin Mamba for Time Series Forecasting**|Zexue Wu et.al.|[2405.07022](http://arxiv.org/abs/2405.07022)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-10**|**An Investigation of Incorporating Mamba for Speech Enhancement**|Rong Chao et.al.|[2405.06573](http://arxiv.org/abs/2405.06573)|**[link](https://github.com/roychao19477/semamba)**|
 |**2024-05-09**|**Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba**|Hongwei Ren et.al.|[2405.06116](http://arxiv.org/abs/2405.06116)|null|
