@@ -76,7 +76,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-13**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|**[link](https://github.com/yuweihao/mambaout)**|
+|**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
+|**2024-05-14**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|**[link](https://github.com/yuweihao/mambaout)**|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-13**|**Hierarchical Decision Mamba**|André Correia et.al.|[2405.07943](http://arxiv.org/abs/2405.07943)|**[link](https://github.com/meowatthemoon/hierarchicaldecisionmamba)**|
 |**2024-05-13**|**GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images**|Xinying Wang et.al.|[2405.07777](http://arxiv.org/abs/2405.07777)|null|
