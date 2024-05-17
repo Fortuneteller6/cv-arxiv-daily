@@ -76,6 +76,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873](http://arxiv.org/abs/2405.09873)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
 |**2024-05-14**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|**[link](https://github.com/yuweihao/mambaout)**|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
