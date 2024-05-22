@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## segmentation
 
@@ -70,14 +70,14 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|null|
-|**2024-05-20**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|null|
+|**2024-05-20**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|**[link](https://github.com/zhouweilian1904/mamba-in-mamba)**|
 |**2024-05-20**|**SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**|Siavash Shams et.al.|[2405.11831](http://arxiv.org/abs/2405.11831)|null|
 |**2024-05-19**|**NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba**|Tongze Wang et.al.|[2405.11449](http://arxiv.org/abs/2405.11449)|**[link](https://github.com/wangtz19/NetMamba)**|
 |**2024-05-18**|**MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length**|Yezhuo Zhang et.al.|[2405.11263](http://arxiv.org/abs/2405.11263)|null|
@@ -89,7 +89,7 @@
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-13**|**Hierarchical Decision Mamba**|André Correia et.al.|[2405.07943](http://arxiv.org/abs/2405.07943)|**[link](https://github.com/meowatthemoon/hierarchicaldecisionmamba)**|
 |**2024-05-13**|**GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images**|Xinying Wang et.al.|[2405.07777](http://arxiv.org/abs/2405.07777)|null|
-|**2024-05-13**|**Sakuga-42M Dataset: Scaling Up Cartoon Research**|Zhenglin Pan et.al.|[2405.07425](http://arxiv.org/abs/2405.07425)|**[link](https://github.com/zhenglinpan/SakugaDataset)**|
+|**2024-05-13**|**Sakuga-42M Dataset: Scaling Up Cartoon Research**|Zhenglin Pan et.al.|[2405.07425](http://arxiv.org/abs/2405.07425)|null|
 |**2024-05-11**|**DTMamba : Dual Twin Mamba for Time Series Forecasting**|Zexue Wu et.al.|[2405.07022](http://arxiv.org/abs/2405.07022)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-10**|**An Investigation of Incorporating Mamba for Speech Enhancement**|Rong Chao et.al.|[2405.06573](http://arxiv.org/abs/2405.06573)|**[link](https://github.com/roychao19477/semamba)**|
@@ -248,7 +248,7 @@
 |**2024-01-24**|**MambaByte: Token-free Selective State Space Model**|Junxiong Wang et.al.|[2401.13660](http://arxiv.org/abs/2401.13660)|null|
 |**2024-01-25**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560](http://arxiv.org/abs/2401.13560)|**[link](https://github.com/ge-xing/segmamba)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
