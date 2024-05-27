@@ -80,8 +80,8 @@
 |**2024-05-24**|**EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records**|Adibvafa Fallahpour et.al.|[2405.14567](http://arxiv.org/abs/2405.14567)|**[link](https://github.com/VectorInstitute/odyssey)**|
 |**2024-05-23**|**Scalable Visual State Space Model with Fractal Scanning**|Lv Tang et.al.|[2405.14480](http://arxiv.org/abs/2405.14480)|null|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
-|**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|null|
-|**2024-05-23**|**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**|Yuheng Shi et.al.|[2405.14174](http://arxiv.org/abs/2405.14174)|null|
+|**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|**[link](https://github.com/tyshiwo1/dim-diffusionmamba)**|
+|**2024-05-23**|**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**|Yuheng Shi et.al.|[2405.14174](http://arxiv.org/abs/2405.14174)|**[link](https://github.com/yuhengsss/msvmamba)**|
 |**2024-05-22**|**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**|Omer F. Atli et.al.|[2405.14022](http://arxiv.org/abs/2405.14022)|null|
 |**2024-05-22**|**HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model**|Zhenyu Pan et.al.|[2405.13915](http://arxiv.org/abs/2405.13915)|null|
 |**2024-05-22**|**Audio Mamba: Pretrained Audio State Space Model For Audio Tagging**|Jiaju Lin et.al.|[2405.13636](http://arxiv.org/abs/2405.13636)|null|
@@ -193,7 +193,7 @@
 |**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|**[link](https://github.com/nancheng58/recmamba)**|
 |**2024-03-22**|**Music to Dance as Language Translation using Sequence Models**|André Correia et.al.|[2403.15569](http://arxiv.org/abs/2403.15569)|**[link](https://github.com/meowatthemoon/mdlt)**|
 |**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|**[link](https://github.com/badripatro/simba)**|
-|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
+|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|**[link](https://github.com/h-zhao1997/cobra)**|
 |**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|**[link](https://github.com/CompVis/zigma)**|
 |**2024-03-26**|**ProMamba: Prompt-Mamba for polyp segmentation**|Jianhao Xie et.al.|[2403.13660](http://arxiv.org/abs/2403.13660)|null|
 |**2024-03-20**|**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**|Renkai Wu et.al.|[2403.13642](http://arxiv.org/abs/2403.13642)|**[link](https://github.com/wurenkai/h-vmunet)**|
