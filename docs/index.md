@@ -67,6 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2405.15574](http://arxiv.org/abs/2405.15574)|**[link](https://github.com/byungkwanlee/meteor)**|
+|**2024-05-24**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|**[link](https://github.com/xiaoyao3302/pointramba)**|
+|**2024-05-24**|**PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning**|Qingdong He et.al.|[2405.15214](http://arxiv.org/abs/2405.15214)|null|
 |**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858](http://arxiv.org/abs/2405.14858)|null|
 |**2024-05-24**|**EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records**|Adibvafa Fallahpour et.al.|[2405.14567](http://arxiv.org/abs/2405.14567)|**[link](https://github.com/VectorInstitute/odyssey)**|
 |**2024-05-23**|**Scalable Visual State Space Model with Fractal Scanning**|Lv Tang et.al.|[2405.14480](http://arxiv.org/abs/2405.14480)|null|
