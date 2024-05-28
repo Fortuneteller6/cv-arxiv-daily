@@ -67,12 +67,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-24**|**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2405.15574](http://arxiv.org/abs/2405.15574)|**[link](https://github.com/byungkwanlee/meteor)**|
+|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
+|**2024-05-27**|**LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling**|Yaohua Zha et.al.|[2405.17149](http://arxiv.org/abs/2405.17149)|null|
+|**2024-05-27**|**Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**|Jeff Guo et.al.|[2405.17066](http://arxiv.org/abs/2405.17066)|null|
+|**2024-05-27**|**TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction**|Yinda Chen et.al.|[2405.16847](http://arxiv.org/abs/2405.16847)|null|
+|**2024-05-26**|**Zamba: A Compact 7B SSM Hybrid Model**|Paolo Glorioso et.al.|[2405.16712](http://arxiv.org/abs/2405.16712)|null|
+|**2024-05-26**|**Demystify Mamba in Vision: A Linear Attention Perspective**|Dongchen Han et.al.|[2405.16605](http://arxiv.org/abs/2405.16605)|null|
+|**2024-05-26**|**Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model**|Yang Cao et.al.|[2405.16542](http://arxiv.org/abs/2405.16542)|null|
+|**2024-05-26**|**A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models**|Itamar Zimerman et.al.|[2405.16504](http://arxiv.org/abs/2405.16504)|null|
+|**2024-05-26**|**MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting**|Xiuding Cai et.al.|[2405.16440](http://arxiv.org/abs/2405.16440)|null|
+|**2024-05-25**|**Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**|Jiaxi Hu et.al.|[2405.16312](http://arxiv.org/abs/2405.16312)|null|
+|**2024-05-24**|**MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation**|Chunyu Yuan et.al.|[2405.15925](http://arxiv.org/abs/2405.15925)|null|
+|**2024-05-24**|**Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation**|Shentong Mo et.al.|[2405.15881](http://arxiv.org/abs/2405.15881)|null|
+|**2024-05-27**|**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2405.15574](http://arxiv.org/abs/2405.15574)|**[link](https://github.com/byungkwanlee/meteor)**|
 |**2024-05-24**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|**[link](https://github.com/xiaoyao3302/pointramba)**|
 |**2024-05-24**|**PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning**|Qingdong He et.al.|[2405.15214](http://arxiv.org/abs/2405.15214)|null|
 |**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858](http://arxiv.org/abs/2405.14858)|null|
 |**2024-05-24**|**EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records**|Adibvafa Fallahpour et.al.|[2405.14567](http://arxiv.org/abs/2405.14567)|**[link](https://github.com/VectorInstitute/odyssey)**|
-|**2024-05-23**|**Scalable Visual State Space Model with Fractal Scanning**|Lv Tang et.al.|[2405.14480](http://arxiv.org/abs/2405.14480)|null|
+|**2024-05-27**|**Scalable Visual State Space Model with Fractal Scanning**|Lv Tang et.al.|[2405.14480](http://arxiv.org/abs/2405.14480)|null|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
 |**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|**[link](https://github.com/tyshiwo1/dim-diffusionmamba)**|
 |**2024-05-23**|**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**|Yuheng Shi et.al.|[2405.14174](http://arxiv.org/abs/2405.14174)|**[link](https://github.com/yuhengsss/msvmamba)**|
