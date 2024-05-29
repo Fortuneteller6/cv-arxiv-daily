@@ -67,6 +67,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
+|**2024-05-28**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014](http://arxiv.org/abs/2405.18014)|null|
+|**2024-05-27**|**Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent**|Yi Xu et.al.|[2405.17680](http://arxiv.org/abs/2405.17680)|**[link](https://github.com/colorfulfuture/unitraj-pytorch)**|
+|**2024-05-27**|**Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**|Jiahao Huang et.al.|[2405.17659](http://arxiv.org/abs/2405.17659)|null|
+|**2024-05-27**|**SMR: State Memory Replay for Long Sequence Modeling**|Biqing Qi et.al.|[2405.17534](http://arxiv.org/abs/2405.17534)|null|
+|**2024-05-25**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation**|Ting Yu Tsai et.al.|[2405.17496](http://arxiv.org/abs/2405.17496)|null|
 |**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-27**|**LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling**|Yaohua Zha et.al.|[2405.17149](http://arxiv.org/abs/2405.17149)|null|
 |**2024-05-27**|**Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**|Jeff Guo et.al.|[2405.17066](http://arxiv.org/abs/2405.17066)|null|
