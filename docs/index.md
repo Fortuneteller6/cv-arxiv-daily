@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -68,7 +68,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
-|**2024-05-28**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014](http://arxiv.org/abs/2405.18014)|null|
+|**2024-05-29**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014](http://arxiv.org/abs/2405.18014)|null|
 |**2024-05-27**|**Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent**|Yi Xu et.al.|[2405.17680](http://arxiv.org/abs/2405.17680)|**[link](https://github.com/colorfulfuture/unitraj-pytorch)**|
 |**2024-05-27**|**Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**|Jiahao Huang et.al.|[2405.17659](http://arxiv.org/abs/2405.17659)|null|
 |**2024-05-27**|**SMR: State Memory Replay for Long Sequence Modeling**|Biqing Qi et.al.|[2405.17534](http://arxiv.org/abs/2405.17534)|null|
