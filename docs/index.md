@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -67,7 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-30**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhanga et.al.|[2405.20142](http://arxiv.org/abs/2405.20142)|null|
+|**2024-05-31**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhang et.al.|[2405.20142](http://arxiv.org/abs/2405.20142)|null|
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-29**|**FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining**|Dong Li et.al.|[2405.19450](http://arxiv.org/abs/2405.19450)|null|
 |**2024-05-29**|**Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**|Juntao Zhang et.al.|[2405.18679](http://arxiv.org/abs/2405.18679)|**[link](https://github.com/yws-wxs/vim-f)**|
@@ -80,12 +80,12 @@ layout: default
 |**2024-05-25**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation**|Ting Yu Tsai et.al.|[2405.17496](http://arxiv.org/abs/2405.17496)|null|
 |**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-27**|**LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling**|Yaohua Zha et.al.|[2405.17149](http://arxiv.org/abs/2405.17149)|null|
-|**2024-05-27**|**Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**|Jeff Guo et.al.|[2405.17066](http://arxiv.org/abs/2405.17066)|null|
+|**2024-05-27**|**Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**|Jeff Guo et.al.|[2405.17066](http://arxiv.org/abs/2405.17066)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-05-27**|**TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction**|Yinda Chen et.al.|[2405.16847](http://arxiv.org/abs/2405.16847)|null|
 |**2024-05-26**|**Zamba: A Compact 7B SSM Hybrid Model**|Paolo Glorioso et.al.|[2405.16712](http://arxiv.org/abs/2405.16712)|null|
 |**2024-05-26**|**Demystify Mamba in Vision: A Linear Attention Perspective**|Dongchen Han et.al.|[2405.16605](http://arxiv.org/abs/2405.16605)|null|
 |**2024-05-26**|**Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model**|Yang Cao et.al.|[2405.16542](http://arxiv.org/abs/2405.16542)|null|
-|**2024-05-26**|**A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models**|Itamar Zimerman et.al.|[2405.16504](http://arxiv.org/abs/2405.16504)|null|
+|**2024-05-26**|**A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models**|Itamar Zimerman et.al.|[2405.16504](http://arxiv.org/abs/2405.16504)|**[link](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr)**|
 |**2024-05-26**|**MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting**|Xiuding Cai et.al.|[2405.16440](http://arxiv.org/abs/2405.16440)|null|
 |**2024-05-25**|**Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**|Jiaxi Hu et.al.|[2405.16312](http://arxiv.org/abs/2405.16312)|null|
 |**2024-05-24**|**MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation**|Chunyu Yuan et.al.|[2405.15925](http://arxiv.org/abs/2405.15925)|null|
