@@ -108,7 +108,7 @@
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
 |**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|**[link](https://github.com/tyshiwo1/dim-diffusionmamba)**|
 |**2024-05-23**|**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**|Yuheng Shi et.al.|[2405.14174](http://arxiv.org/abs/2405.14174)|**[link](https://github.com/yuhengsss/msvmamba)**|
-|**2024-05-22**|**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**|Omer F. Atli et.al.|[2405.14022](http://arxiv.org/abs/2405.14022)|null|
+|**2024-05-22**|**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**|Omer F. Atli et.al.|[2405.14022](http://arxiv.org/abs/2405.14022)|**[link](https://github.com/icon-lab/I2I-Mamba)**|
 |**2024-05-22**|**HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model**|Zhenyu Pan et.al.|[2405.13915](http://arxiv.org/abs/2405.13915)|null|
 |**2024-05-22**|**Audio Mamba: Pretrained Audio State Space Model For Audio Tagging**|Jiaju Lin et.al.|[2405.13636](http://arxiv.org/abs/2405.13636)|null|
 |**2024-05-24**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
