@@ -67,7 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|**[link](https://github.com/state-spaces/mamba)**|
 |**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917](http://arxiv.org/abs/2405.20917)|null|
 |**2024-05-31**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhang et.al.|[2405.20142](http://arxiv.org/abs/2405.20142)|null|
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
@@ -80,7 +80,7 @@ layout: default
 |**2024-05-27**|**Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**|Jiahao Huang et.al.|[2405.17659](http://arxiv.org/abs/2405.17659)|null|
 |**2024-05-27**|**SMR: State Memory Replay for Long Sequence Modeling**|Biqing Qi et.al.|[2405.17534](http://arxiv.org/abs/2405.17534)|null|
 |**2024-05-25**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation**|Ting Yu Tsai et.al.|[2405.17496](http://arxiv.org/abs/2405.17496)|null|
-|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
+|**2024-06-02**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-27**|**LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling**|Yaohua Zha et.al.|[2405.17149](http://arxiv.org/abs/2405.17149)|null|
 |**2024-05-27**|**Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**|Jeff Guo et.al.|[2405.17066](http://arxiv.org/abs/2405.17066)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-05-27**|**TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction**|Yinda Chen et.al.|[2405.16847](http://arxiv.org/abs/2405.16847)|null|
