@@ -69,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
+|**2024-06-10**|**RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection**|Yujie Chen et.al.|[2406.06086](http://arxiv.org/abs/2406.06086)|null|
+|**2024-06-10**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
+|**2024-06-10**|**MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba**|Zhongping Ji et.al.|[2406.05992](http://arxiv.org/abs/2406.05992)|null|
+|**2024-06-09**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al.|[2406.05835](http://arxiv.org/abs/2406.05835)|**[link](https://github.com/hzai-zjnu/mamba-yolo)**|
+|**2024-06-09**|**Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|null|
+|**2024-06-09**|**Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans**|Muthukumar K A et.al.|[2406.05757](http://arxiv.org/abs/2406.05757)|null|
+|**2024-06-09**|**HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model**|Hang Fu et.al.|[2406.05700](http://arxiv.org/abs/2406.05700)|**[link](https://github.com/rsai-lab/hdmba)**|
+|**2024-06-08**|**Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL**|Qi Lv et.al.|[2406.05427](http://arxiv.org/abs/2406.05427)|null|
+|**2024-06-08**|**C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting**|Chaolv Zeng et.al.|[2406.05316](http://arxiv.org/abs/2406.05316)|null|
 |**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038](http://arxiv.org/abs/2406.05038)|null|
 |**2024-06-07**|**Mean-field limit of non-exchangeable multi-agent systems over hypergraphs with unbounded rank**|Nathalie Ayi et.al.|[2406.04691](http://arxiv.org/abs/2406.04691)|null|
 |**2024-06-06**|**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2406.04532](http://arxiv.org/abs/2406.04532)|null|
