@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
 |**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
 |**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
@@ -69,6 +70,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Autoregressive Pretraining with Mamba in Vision**|Sucheng Ren et.al.|[2406.07537](http://arxiv.org/abs/2406.07537)|null|
+|**2024-06-11**|**Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling**|Liliang Ren et.al.|[2406.07522](http://arxiv.org/abs/2406.07522)|null|
+|**2024-06-11**|**DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification**|Jiamu Sheng et.al.|[2406.07050](http://arxiv.org/abs/2406.07050)|null|
+|**2024-06-08**|**Benchmarking Neural Decoding Backbones towards Enhanced On-edge iBCI Applications**|Zhou Zhou et.al.|[2406.06626](http://arxiv.org/abs/2406.06626)|null|
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
 |**2024-06-10**|**RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection**|Yujie Chen et.al.|[2406.06086](http://arxiv.org/abs/2406.06086)|null|
 |**2024-06-10**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
