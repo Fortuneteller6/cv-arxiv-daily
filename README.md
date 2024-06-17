@@ -102,7 +102,7 @@
 |**2024-06-07**|**Mean-field limit of non-exchangeable multi-agent systems over hypergraphs with unbounded rank**|Nathalie Ayi et.al.|[2406.04691](http://arxiv.org/abs/2406.04691)|null|
 |**2024-06-06**|**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2406.04532](http://arxiv.org/abs/2406.04532)|null|
 |**2024-06-06**|**TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification**|Md Atik Ahamed et.al.|[2406.04419](http://arxiv.org/abs/2406.04419)|null|
-|**2024-06-05**|**Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images**|Ruiwen Ding et.al.|[2406.04377](http://arxiv.org/abs/2406.04377)|null|
+|**2024-06-05**|**Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images**|Ruiwen Ding et.al.|[2406.04377](http://arxiv.org/abs/2406.04377)|**[link](https://github.com/rina-ding/gat-mamba)**|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320](http://arxiv.org/abs/2406.04320)|null|
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207](http://arxiv.org/abs/2406.04207)|null|
@@ -110,7 +110,7 @@
 |**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|**[link](https://github.com/mhamzaerol/audio-mamba-aum)**|
 |**2024-06-04**|**Feasibility of State Space Models for Network Traffic Generation**|Andrew Chu et.al.|[2406.02784](http://arxiv.org/abs/2406.02784)|null|
 |**2024-06-04**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|null|
-|**2024-06-07**|**Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations**|Sarthak Yadav et.al.|[2406.02178](http://arxiv.org/abs/2406.02178)|null|
+|**2024-06-07**|**Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations**|Sarthak Yadav et.al.|[2406.02178](http://arxiv.org/abs/2406.02178)|**[link](https://github.com/SarthakYadav/audio-mamba-official)**|
 |**2024-06-04**|**Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning**|Jiahang Cao et.al.|[2406.02013](http://arxiv.org/abs/2406.02013)|**[link](https://github.com/andycao1125/mambadm)**|
 |**2024-06-03**|**Universal In-Context Approximation By Prompting Fully Recurrent Models**|Aleksandar Petrov et.al.|[2406.01424](http://arxiv.org/abs/2406.01424)|**[link](https://github.com/aleksandarpetrov/lsrl)**|
 |**2024-06-03**|**Dimba: Transformer-Mamba Diffusion Models**|Zhengcong Fei et.al.|[2406.01159](http://arxiv.org/abs/2406.01159)|null|
