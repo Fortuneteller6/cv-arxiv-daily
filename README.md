@@ -26,7 +26,7 @@
 |**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
 |**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
 |**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
-|**2024-03-17**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
+|**2024-06-24**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
@@ -80,10 +80,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
+|**2024-06-24**|**Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba**|Yuchen Zou et.al.|[2406.16722](http://arxiv.org/abs/2406.16722)|null|
+|**2024-06-24**|**Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces**|Zhaohui Chen et.al.|[2406.16518](http://arxiv.org/abs/2406.16518)|null|
+|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083](http://arxiv.org/abs/2406.16083)|null|
+|**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910](http://arxiv.org/abs/2406.15910)|**[link](https://github.com/wongzbb/diffma-diffusion-mamba)**|
 |**2024-06-21**|**KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**|Philipp Becker et.al.|[2406.15131](http://arxiv.org/abs/2406.15131)|null|
 |**2024-06-20**|**DeciMamba: Exploring the Length Extrapolation Potential of Mamba**|Assaf Ben-Kish et.al.|[2406.14528](http://arxiv.org/abs/2406.14528)|**[link](https://github.com/assafbk/decimamba)**|
 |**2024-06-20**|**Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images**|Qinfeng Zhu et.al.|[2406.14086](http://arxiv.org/abs/2406.14086)|**[link](https://github.com/zhuqinfeng1999/seg-lstm)**|
-|**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
+|**2024-06-24**|**What Makes Two Language Models Think Alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
 |**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463](http://arxiv.org/abs/2406.12463)|null|
 |**2024-06-19**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
 |**2024-06-17**|**SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces**|Jinhyeok Choi et.al.|[2406.11244](http://arxiv.org/abs/2406.11244)|**[link](https://github.com/bdi-lab/spot-mamba)**|
