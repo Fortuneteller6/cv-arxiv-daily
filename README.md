@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
 |**2024-06-24**|**Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba**|Yuchen Zou et.al.|[2406.16722](http://arxiv.org/abs/2406.16722)|null|
 |**2024-06-24**|**Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces**|Zhaohui Chen et.al.|[2406.16518](http://arxiv.org/abs/2406.16518)|null|
