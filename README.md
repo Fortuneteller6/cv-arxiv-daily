@@ -80,6 +80,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
+|**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|null|
+|**2024-06-27**|**MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion**|Jing Zou et.al.|[2406.18950](http://arxiv.org/abs/2406.18950)|null|
 |**2024-06-25**|**SUM: Saliency Unification through Mamba for Visual Attention Modeling**|Alireza Hosseini et.al.|[2406.17815](http://arxiv.org/abs/2406.17815)|**[link](https://github.com/Arhosseini77/SUM)**|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
