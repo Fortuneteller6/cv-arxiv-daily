@@ -80,6 +80,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
+|**2024-07-04**|**QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024**|Zeyun Zhong et.al.|[2407.04184](http://arxiv.org/abs/2407.04184)|null|
+|**2024-07-04**|**Vision Mamba for Classification of Breast Ultrasound Images**|Ali Nasiri-Sarvi et.al.|[2407.03552](http://arxiv.org/abs/2407.03552)|null|
+|**2024-07-03**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
+|**2024-07-03**|**Analysis of Iterative Deblurring: No Explicit Noise**|Sinethemba Neliswa Mamba et.al.|[2407.03458](http://arxiv.org/abs/2407.03458)|null|
 |**2024-07-02**|**MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders**|Baijiong Lin et.al.|[2407.02228](http://arxiv.org/abs/2407.02228)|**[link](https://github.com/envision-research/mtmamba)**|
 |**2024-07-02**|**xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart**|Tianrun Chen et.al.|[2407.01530](http://arxiv.org/abs/2407.01530)|**[link](https://github.com/tianrun-chen/xLSTM-UNet-PyTorch)**|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
