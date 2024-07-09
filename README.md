@@ -80,6 +80,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993](http://arxiv.org/abs/2407.05993)|null|
+|**2024-07-08**|**Deform-Mamba Network for MRI Super-Resolution**|Zexin Ji et.al.|[2407.05969](http://arxiv.org/abs/2407.05969)|null|
+|**2024-07-08**|**TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery**|Kun Wu et.al.|[2407.05736](http://arxiv.org/abs/2407.05736)|null|
+|**2024-07-08**|**On the Power of Convolution Augmented Transformer**|Mingchen Li et.al.|[2407.05591](http://arxiv.org/abs/2407.05591)|null|
+|**2024-07-07**|**How Effective are State Space Models for Machine Translation?**|Hugo Pitorro et.al.|[2407.05489](http://arxiv.org/abs/2407.05489)|null|
+|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|null|
+|**2024-07-07**|**Mamba Hawkes Process**|Anningzhe Gao et.al.|[2407.05302](http://arxiv.org/abs/2407.05302)|null|
 |**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-04**|**QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024**|Zeyun Zhong et.al.|[2407.04184](http://arxiv.org/abs/2407.04184)|null|
 |**2024-07-04**|**Vision Mamba for Classification of Breast Ultrasound Images**|Ali Nasiri-Sarvi et.al.|[2407.03552](http://arxiv.org/abs/2407.03552)|null|
@@ -89,7 +96,7 @@
 |**2024-07-02**|**xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart**|Tianrun Chen et.al.|[2407.01530](http://arxiv.org/abs/2407.01530)|**[link](https://github.com/tianrun-chen/xLSTM-UNet-PyTorch)**|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|**[link](https://github.com/hotfinda/videomambapro)**|
-|**2024-06-27**|**MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion**|Jing Zou et.al.|[2406.18950](http://arxiv.org/abs/2406.18950)|null|
+|**2024-07-07**|**MMR-Mamba: Multi-Modal MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion**|Jing Zou et.al.|[2406.18950](http://arxiv.org/abs/2406.18950)|null|
 |**2024-06-25**|**SUM: Saliency Unification through Mamba for Visual Attention Modeling**|Alireza Hosseini et.al.|[2406.17815](http://arxiv.org/abs/2406.17815)|**[link](https://github.com/Arhosseini77/SUM)**|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
