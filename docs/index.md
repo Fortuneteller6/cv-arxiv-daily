@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520](http://arxiv.org/abs/2407.07520)|**[link](https://github.com/ipic-lab/irsam)**|
 |**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
 |**2024-06-11**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
@@ -71,12 +72,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model**|Dunbin Shen et.al.|[2407.06841](http://arxiv.org/abs/2407.06841)|null|
+|**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|null|
+|**2024-07-08**|**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**|Luca Zancato et.al.|[2407.06324](http://arxiv.org/abs/2407.06324)|null|
 |**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993](http://arxiv.org/abs/2407.05993)|null|
 |**2024-07-08**|**Deform-Mamba Network for MRI Super-Resolution**|Zexin Ji et.al.|[2407.05969](http://arxiv.org/abs/2407.05969)|null|
 |**2024-07-08**|**TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery**|Kun Wu et.al.|[2407.05736](http://arxiv.org/abs/2407.05736)|null|
 |**2024-07-08**|**On the Power of Convolution Augmented Transformer**|Mingchen Li et.al.|[2407.05591](http://arxiv.org/abs/2407.05591)|null|
 |**2024-07-07**|**How Effective are State Space Models for Machine Translation?**|Hugo Pitorro et.al.|[2407.05489](http://arxiv.org/abs/2407.05489)|null|
-|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|null|
+|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|**[link](https://github.com/HazyResearch/prefix-linear-attention)**|
 |**2024-07-07**|**Mamba Hawkes Process**|Anningzhe Gao et.al.|[2407.05302](http://arxiv.org/abs/2407.05302)|null|
 |**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-04**|**QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024**|Zeyun Zhong et.al.|[2407.04184](http://arxiv.org/abs/2407.04184)|null|
