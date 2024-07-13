@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -72,6 +72,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
+|**2024-07-11**|**SliceMamba for Medical Image Segmentation**|Chao Fan et.al.|[2407.08481](http://arxiv.org/abs/2407.08481)|null|
+|**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
+|**2024-07-11**|**Parallelizing Autoregressive Generation with Variational State Space Models**|Gaspard Lambrechts et.al.|[2407.08415](http://arxiv.org/abs/2407.08415)|null|
+|**2024-07-11**|**SR-Mamba: Effective Surgical Phase Recognition with State Space Model**|Rui Cao et.al.|[2407.08333](http://arxiv.org/abs/2407.08333)|**[link](https://github.com/rcao-hk/sr-mamba)**|
+|**2024-07-11**|**GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification**|Aitao Yang et.al.|[2407.08255](http://arxiv.org/abs/2407.08255)|null|
+|**2024-07-11**|**DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing**|Minghang Zhou et.al.|[2407.08132](http://arxiv.org/abs/2407.08132)|null|
+|**2024-07-10**|**MambaVision: A Hybrid Mamba-Transformer Vision Backbone**|Ali Hatamizadeh et.al.|[2407.08083](http://arxiv.org/abs/2407.08083)|**[link](https://github.com/nvlabs/mambavision)**|
 |**2024-07-09**|**HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model**|Dunbin Shen et.al.|[2407.06841](http://arxiv.org/abs/2407.06841)|null|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|null|
 |**2024-07-08**|**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**|Luca Zancato et.al.|[2407.06324](http://arxiv.org/abs/2407.06324)|null|
