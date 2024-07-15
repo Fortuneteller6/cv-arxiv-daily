@@ -166,7 +166,7 @@ layout: default
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-29**|**FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining**|Dong Li et.al.|[2405.19450](http://arxiv.org/abs/2405.19450)|null|
 |**2024-05-29**|**Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**|Juntao Zhang et.al.|[2405.18679](http://arxiv.org/abs/2405.18679)|**[link](https://github.com/yws-wxs/vim-f)**|
-|**2024-05-28**|**Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba**|Zefan Yang et.al.|[2405.18533](http://arxiv.org/abs/2405.18533)|null|
+|**2024-05-28**|**Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba**|Zefan Yang et.al.|[2405.18533](http://arxiv.org/abs/2405.18533)|**[link](https://github.com/RPIDIAL/BI-Mamba)**|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-29**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014](http://arxiv.org/abs/2405.18014)|null|
 |**2024-05-27**|**Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent**|Yi Xu et.al.|[2405.17680](http://arxiv.org/abs/2405.17680)|**[link](https://github.com/colorfulfuture/unitraj-pytorch)**|
@@ -290,11 +290,11 @@ layout: default
 |**2024-03-29**|**Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**|Toshihiro Ota et.al.|[2403.19925](http://arxiv.org/abs/2403.19925)|**[link](https://github.com/toshihiro-ota/decision-mamba)**|
 |**2024-03-28**|**Jamba: A Hybrid Transformer-Mamba Language Model**|Opher Lieber et.al.|[2403.19887](http://arxiv.org/abs/2403.19887)|null|
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
-|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
+|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|**[link](https://github.com/SkyworkAI/Gamba)**|
 |**2024-04-07**|**RankMamba: Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**|Zhichao Xu et.al.|[2403.18276](http://arxiv.org/abs/2403.18276)|**[link](https://github.com/zhichaoxu-shufe/rankmamba)**|
 |**2024-03-27**|**Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**|Xilin Jiang et.al.|[2403.18257](http://arxiv.org/abs/2403.18257)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
 |**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
-|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839](http://arxiv.org/abs/2403.17839)|null|
+|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839](http://arxiv.org/abs/2403.17839)|**[link](https://github.com/yyh-rain-song/ReMamber)**|
 |**2024-04-01**|**Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**|Hao Tang et.al.|[2403.17701](http://arxiv.org/abs/2403.17701)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
