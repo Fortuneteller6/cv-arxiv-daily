@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -81,7 +81,7 @@ layout: default
 |**2024-07-14**|**MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis**|Adamu Lawan et.al.|[2407.10347](http://arxiv.org/abs/2407.10347)|null|
 |**2024-07-14**|**InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation**|Zeyu Zhang et.al.|[2407.10061](http://arxiv.org/abs/2407.10061)|**[link](https://github.com/steve-zeyu-zhang/InfiniMotion)**|
 |**2024-07-13**|**Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers**|Sukjun Hwang et.al.|[2407.09941](http://arxiv.org/abs/2407.09941)|**[link](https://github.com/goombalab/hydra)**|
-|**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/mamba-asr)**|
+|**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
 |**2024-07-12**|**Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba**|Haoye Dong et.al.|[2407.09646](http://arxiv.org/abs/2407.09646)|null|
 |**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
 |**2024-07-11**|**SliceMamba for Medical Image Segmentation**|Chao Fan et.al.|[2407.08481](http://arxiv.org/abs/2407.08481)|null|
@@ -91,7 +91,7 @@ layout: default
 |**2024-07-11**|**GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification**|Aitao Yang et.al.|[2407.08255](http://arxiv.org/abs/2407.08255)|null|
 |**2024-07-11**|**DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing**|Minghang Zhou et.al.|[2407.08132](http://arxiv.org/abs/2407.08132)|null|
 |**2024-07-10**|**MambaVision: A Hybrid Mamba-Transformer Vision Backbone**|Ali Hatamizadeh et.al.|[2407.08083](http://arxiv.org/abs/2407.08083)|**[link](https://github.com/nvlabs/mambavision)**|
-|**2024-07-17**|**HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model**|Dunbin Shen et.al.|[2407.06841](http://arxiv.org/abs/2407.06841)|null|
+|**2024-07-17**|**HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model**|Dunbin Shen et.al.|[2407.06841](http://arxiv.org/abs/2407.06841)|**[link](https://github.com/shendb2022/htd-mamba)**|
 |**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|**[link](https://github.com/jayparanjape/m-cd)**|
 |**2024-07-08**|**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**|Luca Zancato et.al.|[2407.06324](http://arxiv.org/abs/2407.06324)|null|
 |**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993](http://arxiv.org/abs/2407.05993)|null|
