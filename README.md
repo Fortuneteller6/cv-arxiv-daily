@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection**|Fei Zhou et.al.|[2407.15369](http://arxiv.org/abs/2407.15369)|**[link](https://github.com/grokcv/sdd)**|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520](http://arxiv.org/abs/2407.07520)|**[link](https://github.com/ipic-lab/irsam)**|
 |**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
 |**2024-06-11**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
@@ -81,21 +82,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719](http://arxiv.org/abs/2407.15719)|**[link](https://github.com/tinysqua/gfe-mamba)**|
+|**2024-07-22**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714](http://arxiv.org/abs/2407.15714)|**[link](https://github.com/hzlbbfrog/crackmamba)**|
+|**2024-07-20**|**FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting**|Shusen Ma et.al.|[2407.14814](http://arxiv.org/abs/2407.14814)|null|
 |**2024-07-19**|**Longhorn: State Space Models are Amortized Online Learners**|Bo Liu et.al.|[2407.14207](http://arxiv.org/abs/2407.14207)|**[link](https://github.com/Cranial-XIX/longhorn)**|
-|**2024-07-19**|**Investigating the Indirect Object Identification circuit in Mamb**|Danielle Ensign et.al.|[2407.14008](http://arxiv.org/abs/2407.14008)|**[link](https://github.com/Phylliida/investigating-mamba-ioi)**|
+|**2024-07-22**|**Investigating the Indirect Object Identification circuit in Mamba**|Danielle Ensign et.al.|[2407.14008](http://arxiv.org/abs/2407.14008)|**[link](https://github.com/Phylliida/investigating-mamba-ioi)**|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
 |**2024-07-17**|**Mamba-PTQ: Outlier Channels in Recurrent Large Language Models**|Alessandro Pierro et.al.|[2407.12397](http://arxiv.org/abs/2407.12397)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923](http://arxiv.org/abs/2407.10923)|null|
-|**2024-07-15**|**MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting**|GaoXiang Zhao et.al.|[2407.10768](http://arxiv.org/abs/2407.10768)|null|
+|**2024-07-22**|**MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting**|GaoXiang Zhao et.al.|[2407.10768](http://arxiv.org/abs/2407.10768)|**[link](https://github.com/uniqueonez/msegrnn)**|
 |**2024-07-15**|**An Empirical Study of Mamba-based Pedestrian Attribute Recognition**|Xiao Wang et.al.|[2407.10374](http://arxiv.org/abs/2407.10374)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-07-14**|**MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis**|Adamu Lawan et.al.|[2407.10347](http://arxiv.org/abs/2407.10347)|null|
 |**2024-07-14**|**InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation**|Zeyu Zhang et.al.|[2407.10061](http://arxiv.org/abs/2407.10061)|**[link](https://github.com/steve-zeyu-zhang/InfiniMotion)**|
 |**2024-07-13**|**Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers**|Sukjun Hwang et.al.|[2407.09941](http://arxiv.org/abs/2407.09941)|**[link](https://github.com/goombalab/hydra)**|
 |**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
-|**2024-07-12**|**Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba**|Haoye Dong et.al.|[2407.09646](http://arxiv.org/abs/2407.09646)|null|
+|**2024-07-12**|**Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba**|Haoye Dong et.al.|[2407.09646](http://arxiv.org/abs/2407.09646)|**[link](https://github.com/humansensinglab/Hamba)**|
 |**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
 |**2024-07-11**|**SliceMamba for Medical Image Segmentation**|Chao Fan et.al.|[2407.08481](http://arxiv.org/abs/2407.08481)|null|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
