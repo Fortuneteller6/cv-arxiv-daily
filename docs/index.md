@@ -73,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**MxT: Mamba x Transformer for Image Inpainting**|Shuang Chen et.al.|[2407.16126](http://arxiv.org/abs/2407.16126)|null|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719](http://arxiv.org/abs/2407.15719)|**[link](https://github.com/tinysqua/gfe-mamba)**|
 |**2024-07-22**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714](http://arxiv.org/abs/2407.15714)|**[link](https://github.com/hzlbbfrog/crackmamba)**|
 |**2024-07-20**|**FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting**|Shusen Ma et.al.|[2407.14814](http://arxiv.org/abs/2407.14814)|null|
