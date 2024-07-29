@@ -73,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**VSSD: Vision Mamba with Non-Casual State Space Duality**|Yuheng Shi et.al.|[2407.18559](http://arxiv.org/abs/2407.18559)|**[link](https://github.com/yuhengsss/vssd)**|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-26**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792](http://arxiv.org/abs/2407.17792)|**[link](https://github.com/sming256/OpenTAD)**|
 |**2024-07-25**|**ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement**|Shichen Qu et.al.|[2407.17705](http://arxiv.org/abs/2407.17705)|null|
