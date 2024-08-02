@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -90,7 +90,7 @@ layout: default
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719](http://arxiv.org/abs/2407.15719)|**[link](https://github.com/tinysqua/gfe-mamba)**|
 |**2024-07-22**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714](http://arxiv.org/abs/2407.15714)|**[link](https://github.com/hzlbbfrog/crackmamba)**|
 |**2024-07-20**|**FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting**|Shusen Ma et.al.|[2407.14814](http://arxiv.org/abs/2407.14814)|null|
-|**2024-07-26**|**Longhorn: State Space Models are Amortized Online Learners**|Bo Liu et.al.|[2407.14207](http://arxiv.org/abs/2407.14207)|**[link](https://github.com/Cranial-XIX/longhorn)**|
+|**2024-07-31**|**Longhorn: State Space Models are Amortized Online Learners**|Bo Liu et.al.|[2407.14207](http://arxiv.org/abs/2407.14207)|**[link](https://github.com/Cranial-XIX/longhorn)**|
 |**2024-07-22**|**Investigating the Indirect Object Identification circuit in Mamba**|Danielle Ensign et.al.|[2407.14008](http://arxiv.org/abs/2407.14008)|**[link](https://github.com/Phylliida/investigating-mamba-ioi)**|
 |**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772](http://arxiv.org/abs/2407.13772)|**[link](https://github.com/Amshaker/GroupMamba)**|
 |**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
