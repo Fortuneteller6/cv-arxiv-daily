@@ -75,6 +75,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
+|**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
+|**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370](http://arxiv.org/abs/2408.00370)|null|
 |**2024-07-30**|**MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network**|Yinlong Xu et.al.|[2407.20893](http://arxiv.org/abs/2407.20893)|null|
 |**2024-07-20**|**EEGMamba: Bidirectional State Space Models with Mixture of Experts for EEG Classification**|Yiyu Gui et.al.|[2407.20254](http://arxiv.org/abs/2407.20254)|null|
 |**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976](http://arxiv.org/abs/2407.19976)|null|
