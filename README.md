@@ -84,6 +84,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372](http://arxiv.org/abs/2408.01372)|null|
+|**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|null|
+|**2024-08-02**|**WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01231](http://arxiv.org/abs/2408.01231)|null|
+|**2024-08-02**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
+|**2024-08-02**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
+|**2024-08-02**|**PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement**|Zhixin Yan et.al.|[2408.01077](http://arxiv.org/abs/2408.01077)|null|
+|**2024-08-02**|**MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**|Xiangbo Gao et.al.|[2408.01037](http://arxiv.org/abs/2408.01037)|null|
 |**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
 |**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
 |**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370](http://arxiv.org/abs/2408.00370)|null|
