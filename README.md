@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
 |**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
 |**2024-08-04**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[2408.01976](http://arxiv.org/abs/2408.01976)|null|
@@ -87,11 +88,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training**|Haoran Xu et.al.|[2408.03865](http://arxiv.org/abs/2408.03865)|null|
+|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/abs/2408.03601)|null|
+|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba**|Ling Yue et.al.|[2408.02600](http://arxiv.org/abs/2408.02600)|null|
-|**2024-08-04**|**DeMansia: Mamba Never Forgets Any Tokens**|Ricky Fang et.al.|[2408.01986](http://arxiv.org/abs/2408.01986)|null|
+|**2024-08-04**|**DeMansia: Mamba Never Forgets Any Tokens**|Ricky Fang et.al.|[2408.01986](http://arxiv.org/abs/2408.01986)|**[link](https://github.com/catalpaaa/demansia)**|
 |**2024-08-03**|**JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model**|Farzaneh Jafari et.al.|[2408.01627](http://arxiv.org/abs/2408.01627)|null|
 |**2024-08-02**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372](http://arxiv.org/abs/2408.01372)|null|
 |**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|null|
