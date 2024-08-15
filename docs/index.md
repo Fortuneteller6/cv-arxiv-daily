@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -81,7 +81,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs**|Dongyuan Li et.al.|[2408.06966](http://arxiv.org/abs/2408.06966)|null|
-|**2024-08-12**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
+|**2024-08-14**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
 |**2024-08-12**|**Mambular: A Sequential Model for Tabular Deep Learning**|Anton Frederik Thielmann et.al.|[2408.06291](http://arxiv.org/abs/2408.06291)|**[link](https://github.com/basf/mamba-tabular)**|
 |**2024-08-13**|**Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition**|Huafeng Qin et.al.|[2408.05743](http://arxiv.org/abs/2408.05743)|null|
 |**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696](http://arxiv.org/abs/2408.05696)|null|
@@ -89,7 +89,7 @@ layout: default
 |**2024-08-09**|**PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba**|Yan Lin et.al.|[2408.04916](http://arxiv.org/abs/2408.04916)|null|
 |**2024-08-08**|**DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models**|Zifeng Ding et.al.|[2408.04713](http://arxiv.org/abs/2408.04713)|null|
 |**2024-08-07**|**PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training**|Haoran Xu et.al.|[2408.03865](http://arxiv.org/abs/2408.03865)|null|
-|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/abs/2408.03601)|null|
+|**2024-08-14**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/abs/2408.03601)|null|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
