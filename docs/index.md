@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
@@ -80,6 +81,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba**|Huiyu Zhai et.al.|[2408.08087](http://arxiv.org/abs/2408.08087)|**[link](https://github.com/alexyangxx/colormamba)**|
+|**2024-08-15**|**MambaMIM: Pre-training Mamba with State Space Token-interpolation**|Fenghe Tang et.al.|[2408.08070](http://arxiv.org/abs/2408.08070)|**[link](https://github.com/fenghetan9/mambamim)**|
+|**2024-08-15**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066](http://arxiv.org/abs/2408.08066)|null|
+|**2024-08-15**|**MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**|Simiao Lai et.al.|[2408.07889](http://arxiv.org/abs/2408.07889)|null|
 |**2024-08-14**|**Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark**|Senmao Wang et.al.|[2408.07444](http://arxiv.org/abs/2408.07444)|null|
 |**2024-08-13**|**DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs**|Dongyuan Li et.al.|[2408.06966](http://arxiv.org/abs/2408.06966)|null|
 |**2024-08-14**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
