@@ -81,6 +81,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba**|Andong Lu et.al.|[2408.08827](http://arxiv.org/abs/2408.08827)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665](http://arxiv.org/abs/2408.08665)|null|
 |**2024-08-15**|**ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba**|Huiyu Zhai et.al.|[2408.08087](http://arxiv.org/abs/2408.08087)|**[link](https://github.com/alexyangxx/colormamba)**|
 |**2024-08-15**|**MambaMIM: Pre-training Mamba with State Space Token-interpolation**|Fenghe Tang et.al.|[2408.08070](http://arxiv.org/abs/2408.08070)|**[link](https://github.com/fenghetan9/mambamim)**|
 |**2024-08-15**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066](http://arxiv.org/abs/2408.08066)|null|
