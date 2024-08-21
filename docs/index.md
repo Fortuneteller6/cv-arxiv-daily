@@ -82,6 +82,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854](http://arxiv.org/abs/2408.10854)|null|
+|**2024-08-20**|**DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba**|Shuning Xu et.al.|[2408.10679](http://arxiv.org/abs/2408.10679)|null|
+|**2024-08-20**|**OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**|Junming Wang et.al.|[2408.10618](http://arxiv.org/abs/2408.10618)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval**|Haoran Tang et.al.|[2408.10575](http://arxiv.org/abs/2408.10575)|null|
+|**2024-08-20**|**Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba**|Wall Kim et.al.|[2408.10517](http://arxiv.org/abs/2408.10517)|null|
+|**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|null|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145](http://arxiv.org/abs/2408.10145)|null|
 |**2024-08-19**|**OccMamba: Semantic Occupancy Prediction with State Space Models**|Heng Li et.al.|[2408.09859](http://arxiv.org/abs/2408.09859)|null|
