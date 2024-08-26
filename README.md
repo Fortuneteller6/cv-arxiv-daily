@@ -400,7 +400,7 @@
 |**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|**[link](https://github.com/SkyworkAI/Gamba)**|
 |**2024-04-07**|**RankMamba: Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**|Zhichao Xu et.al.|[2403.18276](http://arxiv.org/abs/2403.18276)|**[link](https://github.com/zhichaoxu-shufe/rankmamba)**|
 |**2024-03-27**|**Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**|Xilin Jiang et.al.|[2403.18257](http://arxiv.org/abs/2403.18257)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
-|**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
+|**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|**[link](https://github.com/athms/mad-lab)**|
 |**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839](http://arxiv.org/abs/2403.17839)|**[link](https://github.com/yyh-rain-song/ReMamber)**|
 |**2024-04-01**|**Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**|Hao Tang et.al.|[2403.17701](http://arxiv.org/abs/2403.17701)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695](http://arxiv.org/abs/2403.17695)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
