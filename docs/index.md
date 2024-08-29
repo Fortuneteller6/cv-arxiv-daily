@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
-|**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
+|**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
 |**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
 |**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
@@ -82,6 +82,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
+|**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
+|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|null|
+|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
+|**2024-08-27**|**DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2408.15379](http://arxiv.org/abs/2408.15379)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders**|Baijiong Lin et.al.|[2408.15101](http://arxiv.org/abs/2408.15101)|**[link](https://github.com/envision-research/mtmamba)**|
 |**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868](http://arxiv.org/abs/2408.14868)|null|
@@ -89,14 +94,14 @@ layout: default
 |**2024-08-26**|**MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification**|Feng Gao et.al.|[2408.14255](http://arxiv.org/abs/2408.14255)|null|
 |**2024-08-26**|**ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation**|Ruohua Shi et.al.|[2408.14114](http://arxiv.org/abs/2408.14114)|null|
 |**2024-08-25**|**MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation**|Chaowei Chen et.al.|[2408.13735](http://arxiv.org/abs/2408.13735)|**[link](https://github.com/gndlwch2w/msvm-unet)**|
-|**2024-08-24**|**A Law of Next-Token Prediction in Large Language Models**|Hangfeng He et.al.|[2408.13442](http://arxiv.org/abs/2408.13442)|null|
+|**2024-08-24**|**A Law of Next-Token Prediction in Large Language Models**|Hangfeng He et.al.|[2408.13442](http://arxiv.org/abs/2408.13442)|**[link](https://github.com/hornhehhf/llm-ell)**|
 |**2024-08-23**|**Hierarchical Spatio-Temporal State-Space Modeling for fMRI Analysis**|Yuxiang Wei et.al.|[2408.13074](http://arxiv.org/abs/2408.13074)|null|
 |**2024-08-23**|**O-Mamba: O-shape State-Space Model for Underwater Image Enhancement**|Chenyu Dong et.al.|[2408.12816](http://arxiv.org/abs/2408.12816)|**[link](https://github.com/chenydong/o-mamba)**|
 |**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317](http://arxiv.org/abs/2408.12317)|null|
 |**2024-08-22**|**Scalable Autoregressive Image Generation with Mamba**|Haopeng Li et.al.|[2408.12245](http://arxiv.org/abs/2408.12245)|**[link](https://github.com/hp-l33/aim)**|
 |**2024-08-22**|**Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting**|Zixuan Weng et.al.|[2408.12068](http://arxiv.org/abs/2408.12068)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-26**|**UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|**[link](https://github.com/enzezhu2001/unetmamba)**|
 |**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
 |**2024-08-23**|**Bidirectional Gated Mamba for Sequential Recommendation**|Ziwei Liu et.al.|[2408.11451](http://arxiv.org/abs/2408.11451)|**[link](https://github.com/ziwliu-cityu/simga)**|
