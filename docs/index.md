@@ -84,7 +84,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
 |**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
-|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|null|
+|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|**[link](https://github.com/CV4RA/MambaPlace)**|
 |**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
 |**2024-08-27**|**DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2408.15379](http://arxiv.org/abs/2408.15379)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
