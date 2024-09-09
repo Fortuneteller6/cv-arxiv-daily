@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
@@ -82,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model**|Hongqiu Wang et.al.|[2409.04356](http://arxiv.org/abs/2409.04356)|null|
+|**2024-09-06**|**MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection**|Yubiao Yue et.al.|[2409.04218](http://arxiv.org/abs/2409.04218)|**[link](https://github.com/yubiaoyue/mpoxmamba)**|
 |**2024-09-06**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|null|
 |**2024-09-05**|**State-space models are accurate and efficient neural operators for dynamical systems**|Zheyuan Hu et.al.|[2409.03231](http://arxiv.org/abs/2409.03231)|null|
 |**2024-09-05**|**Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion**|Chenguang Zhu et.al.|[2409.03223](http://arxiv.org/abs/2409.03223)|null|
