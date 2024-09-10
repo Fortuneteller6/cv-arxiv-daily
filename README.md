@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
 |**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
@@ -92,9 +93,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching**|Yi Li et.al.|[2409.05681](http://arxiv.org/abs/2409.05681)|null|
+|**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
+|**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|null|
+|**2024-09-08**|**TF-Mamba: A Time-Frequency Network for Sound Source Localization**|Yang Xiao et.al.|[2409.05034](http://arxiv.org/abs/2409.05034)|null|
+|**2024-09-07**|**Cross-attention Inspired Selective State Space Models for Target Sound Extraction**|Donghang Wu et.al.|[2409.04803](http://arxiv.org/abs/2409.04803)|null|
 |**2024-09-06**|**Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model**|Hongqiu Wang et.al.|[2409.04356](http://arxiv.org/abs/2409.04356)|null|
 |**2024-09-06**|**MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection**|Yubiao Yue et.al.|[2409.04218](http://arxiv.org/abs/2409.04218)|**[link](https://github.com/yubiaoyue/mpoxmamba)**|
-|**2024-09-06**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|null|
+|**2024-09-09**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|**[link](https://github.com/Devin-Egber/UV-Mamba)**|
 |**2024-09-05**|**State-space models are accurate and efficient neural operators for dynamical systems**|Zheyuan Hu et.al.|[2409.03231](http://arxiv.org/abs/2409.03231)|null|
 |**2024-09-05**|**Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion**|Chenguang Zhu et.al.|[2409.03223](http://arxiv.org/abs/2409.03223)|null|
 |**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
