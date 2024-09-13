@@ -84,6 +84,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
+|**2024-09-12**|**Microscopic-Mamba: Revealing the Secrets of Microscopic Images with Just 4M Parameters**|Shun Zou et.al.|[2409.07896](http://arxiv.org/abs/2409.07896)|**[link](https://github.com/zs1314/microscopic-mamba)**|
+|**2024-09-12**|**CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model**|Yang Li et.al.|[2409.07714](http://arxiv.org/abs/2409.07714)|null|
+|**2024-09-11**|**Multi-scale spatiotemporal representation learning for EEG-based emotion recognition**|Xin Zhou et.al.|[2409.07589](http://arxiv.org/abs/2409.07589)|null|
 |**2024-09-11**|**Rethinking Mamba in Speech Processing by Self-Supervised Models**|Xiangyu Zhang et.al.|[2409.07273](http://arxiv.org/abs/2409.07273)|null|
 |**2024-09-11**|**Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models**|Jiahang Cao et.al.|[2409.07163](http://arxiv.org/abs/2409.07163)|null|
 |**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|null|
@@ -91,7 +95,7 @@ layout: default
 |**2024-09-09**|**SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching**|Yi Li et.al.|[2409.05681](http://arxiv.org/abs/2409.05681)|null|
 |**2024-09-12**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
 |**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
-|**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|null|
+|**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|**[link](https://github.com/Alena-Xinran/MaTAV)**|
 |**2024-09-08**|**TF-Mamba: A Time-Frequency Network for Sound Source Localization**|Yang Xiao et.al.|[2409.05034](http://arxiv.org/abs/2409.05034)|null|
 |**2024-09-10**|**Cross-attention Inspired Selective State Space Models for Target Sound Extraction**|Donghang Wu et.al.|[2409.04803](http://arxiv.org/abs/2409.04803)|null|
 |**2024-09-06**|**Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model**|Hongqiu Wang et.al.|[2409.04356](http://arxiv.org/abs/2409.04356)|null|
