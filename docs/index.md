@@ -18,7 +18,7 @@ layout: default
 |**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
-|**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
+|**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
 |**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
 |**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
@@ -84,8 +84,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement**|Wenze Ren et.al.|[2409.10376](http://arxiv.org/abs/2409.10376)|null|
+|**2024-09-16**|**Ultra-Low Latency Speech Enhancement - A Comprehensive Study**|Haibin Wu et.al.|[2409.10358](http://arxiv.org/abs/2409.10358)|null|
+|**2024-09-15**|**Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion**|Hui Shen et.al.|[2409.09808](http://arxiv.org/abs/2409.09808)|**[link](https://github.com/aiot-mlsys-lab/famba-v)**|
+|**2024-09-15**|**SITSMamba for Crop Classification based on Satellite Image Time Series**|Xiaolei Qin et.al.|[2409.09673](http://arxiv.org/abs/2409.09673)|**[link](https://github.com/xiaoleiqinn/sitsmamba)**|
+|**2024-09-15**|**SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks**|Meng Lou et.al.|[2409.09649](http://arxiv.org/abs/2409.09649)|**[link](https://github.com/lmmmeng/sparx)**|
+|**2024-09-15**|**Self-supervised Learning for Acoustic Few-Shot Classification**|Jingyong Liang et.al.|[2409.09647](http://arxiv.org/abs/2409.09647)|null|
+|**2024-09-15**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627](http://arxiv.org/abs/2409.09627)|null|
+|**2024-09-13**|**MambaFoley: Foley Sound Generation using Selective State-Space Models**|Marco Furio Colombo et.al.|[2409.09162](http://arxiv.org/abs/2409.09162)|null|
 |**2024-09-13**|**Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics**|Wenqing Zhang et.al.|[2409.08530](http://arxiv.org/abs/2409.08530)|null|
-|**2024-09-13**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513](http://arxiv.org/abs/2409.08513)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
+|**2024-09-16**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513](http://arxiv.org/abs/2409.08513)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
 |**2024-09-13**|**Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images**|Hualiang Wang et.al.|[2409.08492](http://arxiv.org/abs/2409.08492)|null|
 |**2024-09-12**|**MedSegMamba: 3D CNN-Mamba Hybrid Architecture for Brain Segmentation**|Aaron Cao et.al.|[2409.08307](http://arxiv.org/abs/2409.08307)|null|
 |**2024-09-12**|**OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation**|Shun Zou et.al.|[2409.08000](http://arxiv.org/abs/2409.08000)|**[link](https://github.com/zs1314/octamamba)**|
