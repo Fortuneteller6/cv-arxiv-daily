@@ -93,6 +93,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
+|**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122](http://arxiv.org/abs/2409.11122)|**[link](https://github.com/brytsknguyen/uloc)**|
+|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
+|**2024-09-17**|**SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance**|Shun Zou et.al.|[2409.10890](http://arxiv.org/abs/2409.10890)|**[link](https://github.com/zs1314/skinmamba)**|
 |**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
 |**2024-09-16**|**Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement**|Wenze Ren et.al.|[2409.10376](http://arxiv.org/abs/2409.10376)|null|
 |**2024-09-16**|**Ultra-Low Latency Speech Enhancement - A Comprehensive Study**|Haibin Wu et.al.|[2409.10358](http://arxiv.org/abs/2409.10358)|null|
