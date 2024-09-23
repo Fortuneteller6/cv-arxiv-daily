@@ -132,7 +132,7 @@ layout: default
 |**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636](http://arxiv.org/abs/2409.02636)|null|
 |**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597](http://arxiv.org/abs/2409.02597)|null|
 |**2024-09-04**|**An Analysis of Linear Complexity Attention Substitutes with BEST-RQ**|Ryan Whetten et.al.|[2409.02596](http://arxiv.org/abs/2409.02596)|null|
-|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421](http://arxiv.org/abs/2409.02421)|null|
+|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421](http://arxiv.org/abs/2409.02421)|**[link](https://github.com/Wietc/MusicMamba)**|
 |**2024-09-05**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
 |**2024-09-03**|**Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion**|Ke Cao et.al.|[2409.01728](http://arxiv.org/abs/2409.01728)|null|
 |**2024-09-02**|**SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation**|Haohao Qu et.al.|[2409.01192](http://arxiv.org/abs/2409.01192)|null|
@@ -201,7 +201,7 @@ layout: default
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
-|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
+|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|**[link](https://github.com/yunxiangfu2001/lamamba-diff)**|
 |**2024-08-05**|**BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba**|Ling Yue et.al.|[2408.02600](http://arxiv.org/abs/2408.02600)|**[link](https://github.com/LeoYML/BioMamba)**|
 |**2024-08-04**|**DeMansia: Mamba Never Forgets Any Tokens**|Ricky Fang et.al.|[2408.01986](http://arxiv.org/abs/2408.01986)|**[link](https://github.com/catalpaaa/demansia)**|
 |**2024-08-03**|**JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model**|Farzaneh Jafari et.al.|[2408.01627](http://arxiv.org/abs/2408.01627)|null|
@@ -265,7 +265,7 @@ layout: default
 |**2024-07-07**|**Mamba Hawkes Process**|Anningzhe Gao et.al.|[2407.05302](http://arxiv.org/abs/2407.05302)|null|
 |**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-04**|**QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024**|Zeyun Zhong et.al.|[2407.04184](http://arxiv.org/abs/2407.04184)|null|
-|**2024-07-04**|**Vision Mamba for Classification of Breast Ultrasound Images**|Ali Nasiri-Sarvi et.al.|[2407.03552](http://arxiv.org/abs/2407.03552)|null|
+|**2024-07-04**|**Vision Mamba for Classification of Breast Ultrasound Images**|Ali Nasiri-Sarvi et.al.|[2407.03552](http://arxiv.org/abs/2407.03552)|**[link](https://github.com/anasiri/bu-mamba)**|
 |**2024-07-03**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
 |**2024-07-03**|**Analysis of Iterative Deblurring: No Explicit Noise**|Sinethemba Neliswa Mamba et.al.|[2407.03458](http://arxiv.org/abs/2407.03458)|null|
 |**2024-07-02**|**MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders**|Baijiong Lin et.al.|[2407.02228](http://arxiv.org/abs/2407.02228)|**[link](https://github.com/envision-research/mtmamba)**|
@@ -322,7 +322,7 @@ layout: default
 |**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430](http://arxiv.org/abs/2406.03430)|**[link](https://github.com/xmindflow/awesome_mamba)**|
 |**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|**[link](https://github.com/mhamzaerol/audio-mamba-aum)**|
 |**2024-06-04**|**Feasibility of State Space Models for Network Traffic Generation**|Andrew Chu et.al.|[2406.02784](http://arxiv.org/abs/2406.02784)|null|
-|**2024-06-04**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|null|
+|**2024-06-04**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|**[link](https://github.com/wyd0042/EchoMamba4Rec)**|
 |**2024-06-07**|**Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations**|Sarthak Yadav et.al.|[2406.02178](http://arxiv.org/abs/2406.02178)|**[link](https://github.com/SarthakYadav/audio-mamba-official)**|
 |**2024-06-04**|**Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning**|Jiahang Cao et.al.|[2406.02013](http://arxiv.org/abs/2406.02013)|**[link](https://github.com/andycao1125/mambadm)**|
 |**2024-06-03**|**Universal In-Context Approximation By Prompting Fully Recurrent Models**|Aleksandar Petrov et.al.|[2406.01424](http://arxiv.org/abs/2406.01424)|**[link](https://github.com/aleksandarpetrov/lsrl)**|
