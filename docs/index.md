@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-19**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
 |**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
@@ -84,6 +85,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
+|**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
+|**2024-09-24**|**DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection**|Jiaxin Ye et.al.|[2409.15936](http://arxiv.org/abs/2409.15936)|**[link](https://github.com/Jiaxin-Ye/DepMamba)**|
+|**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/abs/2409.15841)|null|
+|**2024-09-23**|**DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization**|Nayoung Oh et.al.|[2409.14719](http://arxiv.org/abs/2409.14719)|null|
+|**2024-09-22**|**Protein-Mamba: Biological Mamba Models for Protein Function Prediction**|Bohao Xu et.al.|[2409.14617](http://arxiv.org/abs/2409.14617)|null|
+|**2024-09-22**|**GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning**|Huy Hoang Nguyen et.al.|[2409.14403](http://arxiv.org/abs/2409.14403)|null|
+|**2024-09-22**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiovascular Segmentation**|Ting Yu Tsai et.al.|[2409.14305](http://arxiv.org/abs/2409.14305)|null|
+|**2024-09-21**|**Test Time Learning for Time Series Forecasting**|Panayiotis Christou et.al.|[2409.14012](http://arxiv.org/abs/2409.14012)|null|
+|**2024-09-20**|**OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping**|Jiale Wei et.al.|[2409.13912](http://arxiv.org/abs/2409.13912)|null|
+|**2024-09-19**|**MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation**|Chenyuan Bian et.al.|[2409.12533](http://arxiv.org/abs/2409.12533)|**[link](https://github.com/cyb08/mambaclinix-pytorch)**|
+|**2024-09-19**|**DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification**|Dongheon Lee et.al.|[2409.12413](http://arxiv.org/abs/2409.12413)|null|
+|**2024-09-19**|**MambaRecon: MRI Reconstruction with Structured State Space Models**|Yilmaz Korkmaz et.al.|[2409.12401](http://arxiv.org/abs/2409.12401)|**[link](https://github.com/yilmazkorkmaz1/mambarecon)**|
 |**2024-09-18**|**SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba**|Xiangning Zhang et.al.|[2409.12108](http://arxiv.org/abs/2409.12108)|null|
 |**2024-09-18**|**Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes**|Marco Montagna et.al.|[2409.12033](http://arxiv.org/abs/2409.12033)|null|
 |**2024-09-18**|**PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba**|Chaoqi Luo et.al.|[2409.12031](http://arxiv.org/abs/2409.12031)|**[link](https://github.com/chaoqi31/physmamba)**|
