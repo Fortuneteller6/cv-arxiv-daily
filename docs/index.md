@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -85,6 +85,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**MC-SEMamba: A Simple Multi-channel Extension of SEMamba**|Wen-Yuan Ting et.al.|[2409.17898](http://arxiv.org/abs/2409.17898)|null|
+|**2024-09-26**|**EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation**|Ao Chang et.al.|[2409.17675](http://arxiv.org/abs/2409.17675)|null|
 |**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
 |**2024-09-25**|**Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement**|Guanlin Li et.al.|[2409.16604](http://arxiv.org/abs/2409.16604)|null|
 |**2024-09-24**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
