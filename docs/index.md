@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -86,7 +86,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-30**|**A SSM is Polymerized from Multivariate Time Series**|Haixiang Wu et.al.|[2409.20310](http://arxiv.org/abs/2409.20310)|null|
+|**2024-10-01**|**A SSM is Polymerized from Multivariate Time Series**|Haixiang Wu et.al.|[2409.20310](http://arxiv.org/abs/2409.20310)|null|
 |**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
 |**2024-09-30**|**SWIM: Short-Window CNN Integrated with Mamba for EEG-Based Auditory Spatial Attention Decoding**|Ziyang Zhang et.al.|[2409.19884](http://arxiv.org/abs/2409.19884)|**[link](https://github.com/windowso/swim-asad)**|
 |**2024-09-29**|**Hybrid Mamba for Few-Shot Segmentation**|Qianxiong Xu et.al.|[2409.19613](http://arxiv.org/abs/2409.19613)|**[link](https://github.com/sam1224/hmnet)**|
