@@ -86,6 +86,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Were RNNs All We Needed?**|Leo Feng et.al.|[2410.01201](http://arxiv.org/abs/2410.01201)|null|
+|**2024-10-01**|**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**|Yunze Liu et.al.|[2410.00871](http://arxiv.org/abs/2410.00871)|null|
+|**2024-10-01**|**Zero-Shot Text-to-Speech from Continuous Text Streams**|Trung Dang et.al.|[2410.00767](http://arxiv.org/abs/2410.00767)|null|
+|**2024-10-01**|**CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**|Xiao Wang et.al.|[2410.00379](http://arxiv.org/abs/2410.00379)|**[link](https://github.com/event-ahu/medical_image_analysis)**|
+|**2024-09-30**|**Mamba for Streaming ASR Combined with Unimodal Aggregation**|Ying Fang et.al.|[2410.00070](http://arxiv.org/abs/2410.00070)|**[link](https://github.com/Audio-WestlakeU/UMA-ASR)**|
 |**2024-10-01**|**A SSM is Polymerized from Multivariate Time Series**|Haixiang Wu et.al.|[2409.20310](http://arxiv.org/abs/2409.20310)|null|
 |**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
 |**2024-09-30**|**SWIM: Short-Window CNN Integrated with Mamba for EEG-Based Auditory Spatial Attention Decoding**|Ziyang Zhang et.al.|[2409.19884](http://arxiv.org/abs/2409.19884)|**[link](https://github.com/windowso/swim-asad)**|
