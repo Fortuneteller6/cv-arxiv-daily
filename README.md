@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
 |**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
-|**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
+|**2024-10-03**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
 |**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
 |**2024-08-08**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[2408.01976](http://arxiv.org/abs/2408.01976)|null|
@@ -73,7 +73,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## segmentation
 
@@ -89,7 +89,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## mamba
 
@@ -109,9 +109,9 @@
 |**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao et.al.|[2409.18654](http://arxiv.org/abs/2409.18654)|null|
 |**2024-09-26**|**MC-SEMamba: A Simple Multi-channel Extension of SEMamba**|Wen-Yuan Ting et.al.|[2409.17898](http://arxiv.org/abs/2409.17898)|null|
 |**2024-09-26**|**EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation**|Ao Chang et.al.|[2409.17675](http://arxiv.org/abs/2409.17675)|**[link](https://github.com/zang0902/EM-Net)**|
-|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
+|**2024-10-02**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
 |**2024-09-25**|**Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement**|Guanlin Li et.al.|[2409.16604](http://arxiv.org/abs/2409.16604)|**[link](https://github.com/guanguanboy/Semi-LLIE)**|
-|**2024-09-24**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
+|**2024-10-02**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
 |**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
 |**2024-09-24**|**DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection**|Jiaxin Ye et.al.|[2409.15936](http://arxiv.org/abs/2409.15936)|**[link](https://github.com/Jiaxin-Ye/DepMamba)**|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/abs/2409.15841)|null|
@@ -584,7 +584,7 @@
 |**2024-01-24**|**MambaByte: Token-free Selective State Space Model**|Junxiong Wang et.al.|[2401.13660](http://arxiv.org/abs/2401.13660)|null|
 |**2024-01-25**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560](http://arxiv.org/abs/2401.13560)|**[link](https://github.com/ge-xing/segmamba)**|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
