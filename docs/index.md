@@ -86,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362](http://arxiv.org/abs/2410.02362)|**[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)**|
+|**2024-10-03**|**TRIS-HAR: Transmissive Reconfigurable Intelligent Surfaces-assisted Cognitive Wireless Human Activity Recognition Using State Space Models**|Junshuo Liu et.al.|[2410.02334](http://arxiv.org/abs/2410.02334)|null|
+|**2024-10-03**|**Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs**|Chun-Wun Cheng et.al.|[2410.02113](http://arxiv.org/abs/2410.02113)|null|
 |**2024-10-02**|**Were RNNs All We Needed?**|Leo Feng et.al.|[2410.01201](http://arxiv.org/abs/2410.01201)|null|
 |**2024-10-01**|**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**|Yunze Liu et.al.|[2410.00871](http://arxiv.org/abs/2410.00871)|null|
 |**2024-10-01**|**Zero-Shot Text-to-Speech from Continuous Text Streams**|Trung Dang et.al.|[2410.00767](http://arxiv.org/abs/2410.00767)|null|
