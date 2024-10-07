@@ -155,7 +155,7 @@ layout: default
 |**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|**[link](https://github.com/gpantaz/vl_mamba)**|
 |**2024-09-08**|**Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations**|Xinran Li et.al.|[2409.05243](http://arxiv.org/abs/2409.05243)|**[link](https://github.com/Alena-Xinran/MaTAV)**|
 |**2024-09-08**|**TF-Mamba: A Time-Frequency Network for Sound Source Localization**|Yang Xiao et.al.|[2409.05034](http://arxiv.org/abs/2409.05034)|null|
-|**2024-09-10**|**Cross-attention Inspired Selective State Space Models for Target Sound Extraction**|Donghang Wu et.al.|[2409.04803](http://arxiv.org/abs/2409.04803)|null|
+|**2024-09-10**|**Cross-attention Inspired Selective State Space Models for Target Sound Extraction**|Donghang Wu et.al.|[2409.04803](http://arxiv.org/abs/2409.04803)|**[link](https://github.com/WuDH2000/CrossMamba)**|
 |**2024-09-06**|**Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model**|Hongqiu Wang et.al.|[2409.04356](http://arxiv.org/abs/2409.04356)|null|
 |**2024-09-06**|**MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection**|Yubiao Yue et.al.|[2409.04218](http://arxiv.org/abs/2409.04218)|**[link](https://github.com/yubiaoyue/mpoxmamba)**|
 |**2024-09-09**|**UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images**|Lulin Li et.al.|[2409.03431](http://arxiv.org/abs/2409.03431)|**[link](https://github.com/Devin-Egber/UV-Mamba)**|
@@ -174,7 +174,7 @@ layout: default
 |**2024-09-02**|**DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios**|Yang Li et.al.|[2409.01093](http://arxiv.org/abs/2409.01093)|null|
 |**2024-08-31**|**Sparse Mamba: Reinforcing Controllability In Structural State Space Models**|Emadeldeen Hamdan et.al.|[2409.00563](http://arxiv.org/abs/2409.00563)|null|
 |**2024-08-31**|**TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.|[2409.00487](http://arxiv.org/abs/2409.00487)|**[link](https://github.com/xavier-lin/trackssm)**|
-|**2024-08-31**|**A Hybrid Transformer-Mamba Network for Single Image Deraining**|Shangquan Sun et.al.|[2409.00410](http://arxiv.org/abs/2409.00410)|null|
+|**2024-08-31**|**A Hybrid Transformer-Mamba Network for Single Image Deraining**|Shangquan Sun et.al.|[2409.00410](http://arxiv.org/abs/2409.00410)|**[link](https://github.com/sunshangquan/transmamba)**|
 |**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081](http://arxiv.org/abs/2408.17081)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
 |**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
