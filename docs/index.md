@@ -86,6 +86,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2410.05100](http://arxiv.org/abs/2410.05100)|null|
+|**2024-10-05**|**Fundamental Limitations on Subquadratic Alternatives to Transformers**|Josh Alman et.al.|[2410.04271](http://arxiv.org/abs/2410.04271)|null|
+|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
+|**2024-10-04**|**Oscillatory State-Space Models**|T. Konstantin Rusch et.al.|[2410.03943](http://arxiv.org/abs/2410.03943)|null|
+|**2024-10-04**|**Can Mamba Always Enjoy the "Free Lunch"?**|Ruifeng Ren et.al.|[2410.03810](http://arxiv.org/abs/2410.03810)|null|
 |**2024-10-04**|**HMT-Grasp: A Hybrid Mamba-Transformer Approach for Robot Grasping in Cluttered Environments**|Songsong Xiong et.al.|[2410.03522](http://arxiv.org/abs/2410.03522)|null|
 |**2024-10-04**|**Demystifying the Token Dynamics of Deep Selective State Space Models**|Thieu N Vo et.al.|[2410.03292](http://arxiv.org/abs/2410.03292)|null|
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](http://arxiv.org/abs/2410.03174)|null|
